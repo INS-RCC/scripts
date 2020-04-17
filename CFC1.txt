@@ -1,101 +1,101 @@
-#![INÕCIO]
+Ôªø#![IN√çCIO]
 
 >
->Ol·, sou o(a) instrutor(a) [Nick] e irei lhe aplicar o Curso de FormaÁ„o de Cabos, parte 01.
->Nele vocÍ aprender· mais a fundo sobre nossa policia, preparando-o para seguir a sua carreira na RCC.
->Na parte 02, ir· aprender a como manusear o nosso fÛrum e o System.
+>Ol√°, sou o(a) instrutor(a) [Nick] e irei lhe aplicar o Curso de Forma√ß√£o de Cabos, parte 01.
+>Nele voc√™ aprender√° mais a fundo sobre nossa policia, preparando-o para seguir a sua carreira na RCC.
+>Na parte 02, ir√° aprender a como manusear o nosso f√≥rum e o System.
 
-#![HIST”RIA]
+#![HIST√ìRIA]
 
 >
->A RCC (RevoluÁ„o Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro a data da sua criaÁ„o.
+>A RCC (Revolu√ß√£o Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro a data da sua cria√ß√£o.
 >Foi fundada com o objetivo de acabar com o crime no Habbo, pelo habbo nabas704 ( atual nabas201 ).
 >Ao passar dos meses, a RCC foi ganhando fama e em 2008 teve a sua primeira crise,
 >pois o fundador se ausentou por motivos pessoais.
 >Com a crise, leonardo.29.banido (atualmente Holx/RCC6) assumiu a RCC com ajuda dos policiais.
->Nossos atuais supremos s„o: -Edhone / Dean.Santos e nego-bala157
+>Nossos atuais supremos s√£o: -Edhone / Dean.Santos e nego-bala157
 
-#![REGRAS B¡SICAS DA RCC]
+#![REGRAS B√ÅSICAS DA RCC]
 
 >
->Como policial da RCC, dever· seguir algumas regras b·sicas da RCC como por exemplo:
->- Nunca desobedecer a habbo etiqueta dentro ou fora do batalh„o;
+>Como policial da RCC, dever√° seguir algumas regras b√°sicas da RCC como por exemplo:
+>- Nunca desobedecer a habbo etiqueta dentro ou fora do batalh√£o;
 >- Respeitar todos, sejam inferiores ou superiores;
->- Representar a polÌcia RCC em todos os lugares com elevados padrıes;
->- N„o pedir promoÁ„o/direitos/pagamento ou pedir para ser avaliado;
->- Ser fiel ‡ polÌcia RCC, nunca trabalhar em duas polÌcias ao mesmo tempo;
+>- Representar a pol√≠cia RCC em todos os lugares com elevados padr√µes;
+>- N√£o pedir promo√ß√£o/direitos/pagamento ou pedir para ser avaliado;
+>- Ser fiel √† pol√≠cia RCC, nunca trabalhar em duas pol√≠cias ao mesmo tempo;
 >- Jamais usar linguagem chula ou depreciativa;
->- N„o fugir de rondas/aulas/treinos sob hipÛtese alguma (sob pena de rebaixamento, caso fizer).
+>- N√£o fugir de rondas/aulas/treinos sob hip√≥tese alguma (sob pena de rebaixamento, caso fizer).
 
-#![FUN«’ES DO BATALH√O]
+#![FUN√á√ïES DO BATALH√ÉO]
 
 >
->H· 6 funÁıes no batalh„o e, como cabo, poder· assumir duas novas delas: Sentinela e operador.
->FunÁıes: RecepÁ„o, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
->Sentinela - … o policial que d· uma prÈ-aula aos Recrutas na ·rea de recrutas.
->Ele deve ensinar os Recrutas de uma forma saud·vel e compreensÌvel, abordando temas como:
->HistÛria da RCC, formas de tratamento, negrito e comandos.
->TambÈm tem como funÁ„o abrir a porta para o Corredor dos INS. Para abrir a porta digite p5.
->Exceto no caso do Batalh„o 3 onde se digita: porta5
->O sentinela, alÈm do negrito, deve usar a cor cinza no bal„o de fala.
->… estritamente proibido usar script's ou modelos na funÁ„o do sentinela, utilize o seu conhecimento.
->Vale lembrar que ao assumir sentinela no Batalh„o Auxiliar, dever· deixar a lista de exonerados
->aberta, e sempre conferir se o recruta È exonerado ou n„o. Caso for, avise ao OG.
->Operadores (OP) - Encontram-se na sala de controle, onde est„o as alavancas e os rollers no batalh„o.
->TÍm a liberar corretamente a entrada de policiais ao batalh„o e, por seguranÁa, s„o divididos em 4:    
->OP1: confere a farda, miss„o e emblema com que o policial est· naquele momento.
->OP2: confere o perfil, n˙mero nas costas e se o bal„o de fala est· branco.
->OP3: confere a TAG no System e libera a entrada no batalh„o.
->OP4: confere se os recrutas s„o exonerados e se est„o com os procedimentos corretos.
+>H√° 6 fun√ß√µes no batalh√£o e, como cabo, poder√° assumir duas novas delas: Sentinela e operador.
+>Fun√ß√µes: Recep√ß√£o, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
+>Sentinela - √â o policial que d√° uma pr√©-aula aos Recrutas na √°rea de recrutas.
+>Ele deve ensinar os Recrutas de uma forma saud√°vel e compreens√≠vel, abordando temas como:
+>Hist√≥ria da RCC, formas de tratamento, negrito e comandos.
+>Tamb√©m tem como fun√ß√£o abrir a porta para o Corredor dos INS. Para abrir a porta digite p5.
+>Exceto no caso do Batalh√£o 3 onde se digita: porta5
+>O sentinela, al√©m do negrito, deve usar a cor cinza no bal√£o de fala.
+>√â estritamente proibido usar script's ou modelos na fun√ß√£o do sentinela, utilize o seu conhecimento.
+>Vale lembrar que ao assumir sentinela no Batalh√£o Auxiliar, dever√° deixar a lista de exonerados
+>aberta, e sempre conferir se o recruta √© exonerado ou n√£o. Caso for, avise ao OG.
+>Operadores (OP) - Encontram-se na sala de controle, onde est√£o as alavancas e os rollers no batalh√£o.
+>T√™m a liberar corretamente a entrada de policiais ao batalh√£o e, por seguran√ßa, s√£o divididos em 4:    
+>OP1: confere a farda, miss√£o e emblema com que o policial est√° naquele momento.
+>OP2: confere o perfil, n√∫mero nas costas e se o bal√£o de fala est√° branco.
+>OP3: confere a TAG no System e libera a entrada no batalh√£o.
+>OP4: confere se os recrutas s√£o exonerados e se est√£o com os procedimentos corretos.
 >Para abrir as portas dos OP1, OP2, OP3 ou OP4, digite: P1, P2, P3 ou P4, respetivamente.
->Exceto o caso do Batalh„o 3 onde digita-se: porta1, porta2, porta3 e porta4.
->Para kikar o recruta, digite: Pk. Vale lembrar que o comando "Pk" sÛ funciona no OP4.
->Auxiliar Operacional (AO) - Tem como funÁ„o manter os operadores organizados e ativos. TambÈm tem
->como funÁ„o autorizar a entrada e saÌda de membros da sala de controle, auxiliando os operadores.
->Pra assumir a funÁ„o de Auxiliar Operacional, È necess·rio ser Sargento com o Curso de FormaÁ„o de
->Sargentos (CFS), onde tambÈm ir· aprender sobre as funÁıes: Cabo da Guarda e Oficial da Guarda.
->Obs.: Quando chegar na patente de Sargento, ir· aprender sobre Cabo da Guarda e Oficial da Guarda
->no seu Curso de FormaÁ„o de Sargentos.
->Alguma d˙vida sobre o conte˙do passado?
+>Exceto o caso do Batalh√£o 3 onde digita-se: porta1, porta2, porta3 e porta4.
+>Para kikar o recruta, digite: Pk. Vale lembrar que o comando "Pk" s√≥ funciona no OP4.
+>Auxiliar Operacional (AO) - Tem como fun√ß√£o manter os operadores organizados e ativos. Tamb√©m tem
+>como fun√ß√£o autorizar a entrada e sa√≠da de membros da sala de controle, auxiliando os operadores.
+>Pra assumir a fun√ß√£o de Auxiliar Operacional, √© necess√°rio ser Sargento com o Curso de Forma√ß√£o de
+>Sargentos (CFS), onde tamb√©m ir√° aprender sobre as fun√ß√µes: Cabo da Guarda e Oficial da Guarda.
+>Obs.: Quando chegar na patente de Sargento, ir√° aprender sobre Cabo da Guarda e Oficial da Guarda
+>no seu Curso de Forma√ß√£o de Sargentos.
+>Alguma d√∫vida sobre o conte√∫do passado?
 
 #![TESTE DE CONDUTA - SOMENTE UM CABO]
 
 >
->AAgora irei fazer algumas perguntas relacionadas ‡ aula. Caso erre duas questıes, ser· reprovado(a).
->01 - Quem assumiu a RCC em 2008, apÛs a ausÍncia de nabas704?;;
+>AAgora irei fazer algumas perguntas relacionadas √† aula. Caso erre duas quest√µes, ser√° reprovado(a).
+>01 - Quem assumiu a RCC em 2008, ap√≥s a aus√™ncia de nabas704?;;
 >02 - Quando a RCC foi fundada?;;
 >03 - Qual foi o objetivo de nabas704 ao criar a RCC?;;
->04 - Cite duas regras b·sicas da RCC.;;
->05 - Quantas e quais s„o as funÁıes no batalh„o da RCC?;;
->06 - Qual a funÁ„o de cada um dos operadores?;;
->07 - Quais as duas funÁıes do sentinela?
+>04 - Cite duas regras b√°sicas da RCC.;;
+>05 - Quantas e quais s√£o as fun√ß√µes no batalh√£o da RCC?;;
+>06 - Qual a fun√ß√£o de cada um dos operadores?;;
+>07 - Quais as duas fun√ß√µes do sentinela?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
 >
->Agora irei fazer algumas perguntas relacionadas a aula. Caso erre duas questıes, ser· reprovado(a).
+>Agora irei fazer algumas perguntas relacionadas a aula. Caso erre duas quest√µes, ser√° reprovado(a).
 >Cliquem em mim e aperte em "Sussurro". Feito isso, enviem-me uma mensagem.;;
->Todas as respostas dever„o ser enviadas via sussurro.
->01 - Quem assumiu a RCC em 2008, apÛs a ausÍncia de nabas704?;;
+>Todas as respostas dever√£o ser enviadas via sussurro.
+>01 - Quem assumiu a RCC em 2008, ap√≥s a aus√™ncia de nabas704?;;
 >02 - Quando a RCC foi fundada?;;
 >03 - Qual foi o objetivo de nabas704 ao criar a RCC?;;
->04 - Cite pelo menos duas regras b·sicas da RCC.;;
->05 - Quantas e quais s„o as funÁıes do batalh„o da RCC?;;
->06 - Qual a funÁ„o de cada um dos operadores?;;
->07 - Quais as duas funÁıes do sentinela?
+>04 - Cite pelo menos duas regras b√°sicas da RCC.;;
+>05 - Quantas e quais s√£o as fun√ß√µes do batalh√£o da RCC?;;
+>06 - Qual a fun√ß√£o de cada um dos operadores?;;
+>07 - Quais as duas fun√ß√µes do sentinela?
 
-#![FINALIZA«√O]
+#![FINALIZA√á√ÉO]
 
 >
->ParabÈns, vocÍ foi qualificado na primeira parte do seu CFC.
->Acrescente ao fim de sua miss„o, apÛs a TAG de quem o promoveu: [CFC1];;
->Como Cabo, vocÍ tem grandes responsabilidades e deve ser exemplo para os soldados.
->Deve manter a atenÁ„o e a agilidade em todas as funÁıes que assume na RCC.
+>Parab√©ns, voc√™ foi qualificado na primeira parte do seu CFC.
+>Acrescente ao fim de sua miss√£o, ap√≥s a TAG de quem o promoveu: [CFC1];;
+>Como Cabo, voc√™ tem grandes responsabilidades e deve ser exemplo para os soldados.
+>Deve manter a aten√ß√£o e a agilidade em todas as fun√ß√µes que assume na RCC.
 >Deseja fazer a parte 2 agora?;;
->Aguarde, irei postar a instruÁ„o.
+>Aguarde, irei postar a instru√ß√£o.
 
 #![REPROVADO]
 
 >
->Lamento, vocÍ est· reprovado(a). Mas n„o desista, retorne ao batalh„o, procure outro instrutor e
->faÁa novamente seu curso. Confio no seu potencial e sei que È capaz de aprovar.
+>Lamento, voc√™ est√° reprovado(a). Mas n√£o desista, retorne ao batalh√£o, procure outro instrutor e
+>fa√ßa novamente seu curso. Confio no seu potencial e sei que √© capaz de aprovar.
