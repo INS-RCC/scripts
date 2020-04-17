@@ -1,0 +1,114 @@
+#![INÍCIO]
+
+>
+>Olá, subtenente. Eu sou o(a) instrutor(a) [Nick]
+>Irei aplicar, agora, o Curso de Aperfeiçoamento de Praças [CAP].
+>Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
+
+#![PRÓLOGO]
+
+>
+>Em nossa instituição, existem vários documentos. Esses servem para que haja ordem e organização.
+>Nessa aula, você saberá quais são os principais documentos e como ter acesso a eles.
+>Ademais, serão ditas suas características, composição e, no final, ocorrerá um teste teórico.
+>É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
+>- Primeiro, entre no site policiarcc.com (avise-me ao entrar).;;
+>- Procure por uma área chamada Setor Judiciário. (Avise-me ao encontrar).;;
+>Estando lá, encontrará todos os documentos.
+>Iremos falar sobre cada um deles detalhadamente.
+
+#![CÓDIGO DE CONDUTA MILITAR]
+
+>
+>O Código de Conduta Militar [CCM] é um dos principais documentos da nossa instituição, por abordar
+>um conjunto de informações que representam o que é necessário para o funcionamento da Polícia RCC.
+>O Código de Conduta Militar está dividido em:
+>
+>- Código de Conduta Militar: Disposições Gerais;
+>- Código de Conduta Militar: Disposições Complementares;
+>
+>Além disso, o CCM possui 04 anexos, sendo eles:
+>
+>- Anexo I - Uniforme e Acessórios.
+>- Anexo II - Modelo de Missões;
+>- Anexo III - Política de Baixa e Reintegração;
+>- Anexo IV - Normas para promoções, rebaixamentos e advertências;
+
+>É importante o estudo desses tópicos citados para possuir uma boa noção da constituição militar.
+
+#![CÓDIGO PENAL MILITAR]
+
+>
+>O Código Penal Militar [CPM] é o principal documento com relação às penalidades na RCC.
+>Esse código é importantíssimo para entender como, quando e quais são as punições existentes.
+>
+>O Código Penal Militar está dividido em:
+>
+>- Código Penal Militar;
+>
+>Além disso, ele também possui 03 anexos, sendo eles:
+>
+>- Anexo III - Política de exoneração;
+>- Anexo II – Punições;
+>- Anexo I - Política de Segurança.
+
+#![PLANO DE CONTROLE EMERGENCIAL]
+
+>
+>O Plano de Controle Emergencial [PCE] é importante para saber quais são os riscos e como lidar
+>com eles. O estudo dele é importante pelas suas instruções nos casos de perigo ao batalhão.
+>Ele deve ser ativado em situações de emergência ou acidentes.
+
+#![MANUAL: COMANDO DO BATALHÃO]
+
+>
+>Este documento aborda sobre como obter um bom rendimento como Oficial da Guarda, para mantê-lo em
+>bom contingente e seguir regras propostas. É de extrema importância obter conhecimento deste
+>documento antes de se assumir o posto, para evitar punições ao tomar decisões/atitudes incorretas.
+
+#![REGIMENTOS INTERNOS]
+
+>
+>O Regimento Interno é o documento mais importante das companhias e subcompanhias, porque nele é
+>contido penalidades, regras e instruções. Normalmente ele é encontrado na seção de documentos da
+>companhia ou subcompanhia.
+>Alguma dúvida?
+
+#![TESTE TEÓRICO - SOMENTE UM SUBTENENTE]
+
+>
+>Agora irei fazer algumas perguntas relacionadas a aula. Caso erre uma questão, será reprovado(a).
+>1 - Qual a importância do CPM para a nossa instituição?;;
+>2 - Em que circunstâncias devemos ativar o PCE?;;
+>3 - Qual a importância do CCM para a nossa polícia?;;
+>4 - Qual é o documento mais importante de uma companhia/subcompanhia e por quê?;;
+>5 - Quantos anexos possui o Código de Conduta Militar e quais são eles?;;
+>6 - Qual documento deve-se ter o conhecimento antes de assumir o posto de Oficial da Guarda?
+
+
+#![TESTE TEÓRICO - MAIS DE UM SUBTENENTE]
+
+>
+>Cliquem em mim e aperte em "Sussurro". Feito isso, enviem-me uma mensagem.
+>Todas as respostas deverão ser enviadas via sussurro.
+>Agora irei fazer algumas perguntas relacionadas a aula. Caso erre uma questão, será reprovado(a).
+>1 - Qual a importância do CPM para a nossa instituição?;;
+>2 - Em que circunstâncias devemos ativar o PCE?;;
+>3 - Qual a importância do CCM para a nossa polícia?;;
+>4 - Qual é o documento mais importante de uma companhia/subcompanhia e por quê?;;
+>5 - Quantos anexos possui o Código de Conduta Militar e quais são eles?;;
+>6 - Qual documento deve-se ter o conhecimento antes de assumir o posto de Oficial da Guarda?
+
+#![FINALIZAÇÃO]
+
+>
+>Parabéns, você foi aprovado no Curso de Aperfeiçoamento de Praças!
+>Acrescente após a TAG de quem o promoveu a seguinte abreviatura: [CAP].
+>Agora que concluiu o CAP, procure um supervisor (brevê verde) para obter seu PRO.
+>Aguarde, irei postar a instrução.
+
+#![REPROVADO]
+
+>
+>Lamento, você está reprovado(a). Mas não desista, retorne ao batalhão, procure outro instrutor e
+>faça novamente seu curso. Confio no seu potencial e sei que é capaz de aprovar.
