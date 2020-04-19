@@ -1,3 +1,3 @@
 git add .
-git commit -m 'Atualizando scripts'
+git commit -m "Atualizando scripts"
 git push
