@@ -1,0 +1,1 @@
+Existe uma atualização que corrige um BUG no script de CFC disponível. Caso queira continuar usando o programa, a atualização é obrigatória.
