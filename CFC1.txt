@@ -61,7 +61,7 @@
 #![TESTE DE CONDUTA - SOMENTE UM CABO]
 
 >
->AAgora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
+>Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Quem assumiu a RCC em 2008, após a ausência de nabas704?;;
 >02 - Quando a RCC foi fundada?;;
 >03 - Qual foi o objetivo de nabas704 ao criar a RCC?;;
