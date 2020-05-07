@@ -2,23 +2,23 @@
 
 >
 >Olá, sou o(a) instrutor(a) [Nick] e irei lhe aplicar o Curso de Formação de Cabos, parte 01.
->Nele você aprenderá mais a fundo sobre nossa policia, preparando-o para seguir a sua carreira na RCC.
+>Nele você aprenderá mais a fundo sobre nossa policia, lhe preparando para seguir carreira na RCC.
 >Na parte 02, irá aprender a como manusear o nosso fórum e o System.
 
 #![HISTÓRIA]
 
 >
->A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro a data da sua criação.
->Foi fundada com o objetivo de acabar com o crime no Habbo, pelo habbo nabas704 ( atual nabas201 ).
+>A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro.
+>Foi fundada com o objetivo de acabar com o crime no Habbo, pelo usuário nabas704 (atual nabas201).
 >Ao passar dos meses, a RCC foi ganhando fama e em 2008 teve a sua primeira crise,
 >pois o fundador se ausentou por motivos pessoais.
 >Com a crise, leonardo.29.banido (atualmente Holx/RCC6) assumiu a RCC com ajuda dos policiais.
->Nossos atuais supremos são: -Edhone / Dean.Santos e nego-bala157
+>Nossos atuais supremos são: -Edhone / Dean.Santos / nego-bala157
 
 #![REGRAS BÁSICAS DA RCC]
 
 >
->Como policial da RCC, deverá seguir algumas regras básicas da RCC como por exemplo:
+>Como sabe, na RCC existem várias regras, você deve seguir todas, como:
 >- Nunca desobedecer a habbo etiqueta dentro ou fora do batalhão;
 >- Respeitar todos, sejam inferiores ou superiores;
 >- Representar a polícia RCC em todos os lugares com elevados padrões;
@@ -30,32 +30,28 @@
 #![FUNÇÕES DO BATALHÃO]
 
 >
->Há 6 funções no batalhão e, como cabo, poderá assumir duas novas delas: Sentinela e operador.
->Funções: Recepção, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
->Sentinela - É o policial que dá uma pré-aula aos Recrutas na área de recrutas.
+>Existem 6 funções no batalhão as quais poderá assumir ao longo da sua carreira, sendo elas:
+>Recepção, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
+>Sentinela - É o policial que dá uma pré-aula aos Recrutas na  área de recrutas.
 >Ele deve ensinar os Recrutas de uma forma saudável e compreensível, abordando temas como:
 >História da RCC, formas de tratamento, negrito e comandos.
->Também tem como função abrir a porta para o Corredor dos INS. Para abrir a porta digite p5.
->Exceto no caso do Batalhão 3 onde se digita: porta5
+>Também tem como função abrir a porta para o Corredor dos INS. Para abrir a porta digite porta5.
 >O sentinela, além do negrito, deve usar a cor cinza no balão de fala.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
 >Vale lembrar que ao assumir sentinela no Batalhão Auxiliar, deverá deixar a lista de exonerados
 >aberta, e sempre conferir se o recruta é exonerado ou não. Caso for, avise ao OG.
->Operadores (OP) - Encontram-se na sala de controle, onde estão as alavancas e os rollers no batalhão.
->Têm a liberar corretamente a entrada de policiais ao batalhão e, por segurança, são divididos em 4:    
->OP1: confere a farda, missão e emblema com que o policial está naquele momento.
+>Operadores (OP) - Encontra-se na sala de controle, onde estão as alavancas e os rollers no batalhão.
+>Tem função de facilitar a entrada de policiais ao batalhão e, por segurança, são divididos em 4:
+>OP1: confere a farda, missão e emblema que o policial está naquele momento.
 >OP2: confere o perfil, número nas costas e se o balão de fala está branco.
 >OP3: confere a TAG no System e libera a entrada no batalhão.
 >OP4: confere se os recrutas são exonerados e se estão com os procedimentos corretos.
->Para abrir as portas dos OP1, OP2, OP3 ou OP4, digite: P1, P2, P3 ou P4, respetivamente.
->Exceto o caso do Batalhão 3 onde digita-se: porta1, porta2, porta3 e porta4.
+>Para abrir as portas dos OP1, OP2, OP3 ou OP4, digite:  porta1, porta2, porta3 e porta4.
 >Para kikar o recruta, digite: Pk. Vale lembrar que o comando "Pk" só funciona no OP4.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos. Também tem
 >como função autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
 >Pra assumir a função de Auxiliar Operacional, é necessário ser Sargento com o Curso de Formação de
 >Sargentos (CFS), onde também irá aprender sobre as funções: Cabo da Guarda e Oficial da Guarda.
->Obs.: Quando chegar na patente de Sargento, irá aprender sobre Cabo da Guarda e Oficial da Guarda
->no seu Curso de Formação de Sargentos.
 >Alguma dúvida sobre o conteúdo passado?
 
 #![TESTE DE CONDUTA - SOMENTE UM CABO]
@@ -73,14 +69,14 @@
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
 >
->Agora irei fazer algumas perguntas relacionadas a aula. Caso erre duas questões, será reprovado(a).
 >Cliquem em mim e aperte em "Sussurro". Feito isso, enviem-me uma mensagem.;;
 >Todas as respostas deverão ser enviadas via sussurro.
+>Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Quem assumiu a RCC em 2008, após a ausência de nabas704?;;
 >02 - Quando a RCC foi fundada?;;
 >03 - Qual foi o objetivo de nabas704 ao criar a RCC?;;
->04 - Cite pelo menos duas regras básicas da RCC.;;
->05 - Quantas e quais são as funções do batalhão da RCC?;;
+>04 - Cite duas regras básicas da RCC.;;
+>05 - Quantas e quais são as funções no batalhão da RCC?;;
 >06 - Qual a função de cada um dos operadores?;;
 >07 - Quais as duas funções do sentinela?
 
@@ -88,7 +84,7 @@
 
 >
 >Parabéns, você foi qualificado na primeira parte do seu CFC.
->Acrescente ao fim de sua missão, após a TAG de quem o promoveu: [CFC1];;
+>Acrescente ao fim de sua missão, após a TAG de quem o promoveu: [CFC1]
 >Como Cabo, você tem grandes responsabilidades e deve ser exemplo para os soldados.
 >Deve manter a atenção e a agilidade em todas as funções que assume na RCC.
 >Deseja fazer a parte 2 agora?;;

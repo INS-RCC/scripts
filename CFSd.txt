@@ -1,7 +1,7 @@
 ﻿#![INÍCIO]
 
 >
->Olá, recruta(s). Eu sou o(a) instrutor(a) [Nick].
+>Olá, recruta. Eu sou o(a) instrutor(a) [Nick].
 >Seja bem-vindo ao curso de formação de soldados.
 >Permaneça em silêncio e preste atenção em todas as informações passadas nessa aula.
 >Entendido, recruta?;;
@@ -12,9 +12,9 @@
 #![FORMA DE TRATAMENTO E ATENDIMENTO]
 
 >
->Na RCC, nós temos uma relação entre superiores, inferiores e pares, sendo que:
->Ao dirigir-se a um inferior ou par, deve-se usar: [Patente/Cargo] + Nick.
->Ao dirigir-se a um superior, deve-se usar: Senhor(a) + [Patente/Cargo] + Nick.
+>Na RCC, nós temos uma relação entre superiores e entre inferiores/pares, sendo que
+>Ao dirigir-se a um inferior ou par, deve-se usar: [Patente/Cargo] + [Nick].
+>Ao dirigir-se a um superior, deve-se usar: Senhor(a) + [Patente/Cargo] + [Nick].
 >No atendimento, é obrigatório pedir para que o civil conclua 3 simples requisitos, sendo eles:
 >Missão, fardamento e grupo.
 >Além disso, você também pode identificar a patente/cargo do militar nesses requisitos.
@@ -29,103 +29,100 @@
 >o Cabo da Guarda (policial com balão vermelho) te auxilie ou conceda permissão para saída.
 >Alguma dúvida?
 
->
-#![TESTE TEÓRICO]
+#![TESTE TEÓRICO - UM SOLDADO]
 
 >
-#![TESTE TEÓRICO CASO TENHA SOMENTE UM RECRUTA]
-
->
->Agora, irei fazer algumas perguntas relacionadas a aula. Caso erre duas questões, será reprovado(a).
+>Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Qual é a norma de tratamento para INFERIORES e PARES de patente/Cargo?;;
->3) Qual é a norma de tratamento para SUPERIORES de patente/Cargo?;;
+>2) Qual é a norma de tratamento utilizada com INFERIORES e PARES de patente/cargo?;;
+>3) Qual é a norma de tratamento utilizada com SUPERIORES de patente/cargo?;;
 >4) Como deve ser a missão de um recruta?;;
->5) Qual é a forma correta de assumir um superior na recepção?
+>5) Qual é a forma correta de assumir um superior na recepção?;;
 
->
-#![CASO TENHA MAIS DE UM RECRUTA]
+#![TESTE TEÓRICO - MAIS DE UM SOLDADO]
+
 >
 >Cliquem em mim e apertem em "Sussurro". Feito isso, enviem-me uma mensagem.
 >Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.;;
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Qual é a norma de tratamento para INFERIORES e PARES de patente/Cargo?;;
->3) Qual é a norma de tratamento para SUPERIORES de patente/Cargo?;;
+>2) Qual é a norma de tratamento utilizada com INFERIORES e PARES de patente/cargo?;;
+>3) Qual é a norma de tratamento utilizada com SUPERIORES de patente/cargo?;;
 >4) Como deve ser a missão de um recruta?;;
->5) Qual é a forma correta de assumir um superior na recepção?
+>5) Qual é a forma correta de assumir um superior na recepção?;;
 
-#![AOS REPROVADOS NO TESTE TEÓRICO]:
+#![AOS REPROVADOS NO TESTE TEÓRICO]
 
 >
 >Lamento, você está reprovado(a). Mas não desista, retorne ao batalhão e
 >aliste-se novamente. Confio no seu potencial e sei que é capaz de aprovar.
 
-#![AOS APROVADOS NO TESTE TEÓRICO, PROCEDA PARA O TESTE PRÁTICO]
+#![OPCIONAL - TESTE PRÁTICO]
+
 >
+>Irei realizar uma prática agora para avaliar se você prestou atenção na aula.
+
 #![COMANDOS]
 
 >
->Na RCC, nós temos 8 comandos, sendo eles: Sentido, continência, apresentar armas, marcar passos,
->silêncio, à vontade, apresentar-se e dispensado.
+>Na RCC nós temos 8 comandos, sendo eles: Sentido, continência, apresentar armas,
+>marcar passos, silêncio, à vontade, apresentar-se e dispensado.
 >Sem contar com o apresentar-se e dispensado, você conhece os comandos da RCC?;;
 >Agora, irei ensiná-los para você.
->1. Sentido:  Nesse comando você deverá dar um passo em frente.
+>1. Sentido: Nesse comando você deverá dar um passo à frente.
 >Enquanto estiver no comando sentido, permaneça em silêncio, reto e imóvel.
 >Sentido!;;
 >2. Continência: Nesse comando você deverá acenar uma única vez. Dica: Envie "o/".
 >Continência!;;
->3. Apresentar armas: Nesse comando você deverá acenar sem parar. 
->Só poderá parar de acenar quando for comandado "sentido" novamente. 
->Dica: Envie "o/" a cada 2 segundos.
->Apresentar-Armas!;;
->4. Marcar passos: Nesse comando você deverá dançar hap-hop parado. 
->Só pare de dançar quando for comandado "sentido" novamente. 
+>3. Apresentar armas: Nesse comando você deverá acenar sem parar.
+>Só poderá parar de acenar quando for comandado "sentido" novamente.
+>Dica: Envie "o/" a cada 4 segundos.
+>Apresentar armas!;;
+>4. Marcar passos: Nesse comando você deverá dançar hap-hop sem sair do local.
+>Só pare de dançar quando for comandado "sentido" novamente.
 >Para dançar, clique em seu Habbo e aperte em "dançar".
 >Marcar passos!;;
->5. Silêncio: Nesse comando não é permitido que você fale, nem responda perguntas sem permissão. 
->Silencio!;;
->6. À vontade: Nesse comando você estará livre para retornar ao que estava fazendo antes de ser 
->dado o 'Sentido'.
->A vontade!;;
->Os comandos apresente-se e dispensado, você irá aprender em um dos cursos de soldado.
+>5. Silêncio: Nesse comando não é permitido que você fale, nem responda perguntas sem permissão.
+>Silêncio!;;
+>6. À vontade: Nesse comando você estará livre para retornar ao que estava fazendo.
+>À vontade;;
+>Os comandos apresente-se e dispensado você irá aprender em um dos cursos de soldado.
 >Alguma dúvida sobre os comandos?
 
 #![NEGRITO]
 
 >
->Você(s) sabe(m) utilizar o negrito?;;
+>Você sabe utilizar o negrito?
 >Utilize suas falas em negrito sempre que estiver na RCC.
 
-#![CASO O RECRUTA NÃO SAIBA]
+#![CASO NÃO SAIBA - PC]
 
 >
->Na RCC o uso do negrito nas falas é obrigatório.
->Faça o teste, digite: "Aprendi, senhor(a)" sem enviar.
+>Na RCC, o uso do negrito nas falas é obrigatório.
+>Faça o teste, digite: "Aprendi, senhor(a)", sem enviar
 >Pressione a tecla SHIFT+ENTER e sua mensagem será enviada em negrito.
 >Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC.
 
-#![SE O RECRUTA ESTIVER NO TABLET OU CELULAR:]
->Você está pelo computador ou celular?
+#![CASO NÃO SAIBA - CELULAR/TABLET]
 
 >
 >Ao escrever a mensagem, aparecerá uma "caixinha" do lado da caixa de texto escrita "Fale".
 >Clique nela e selecione a opção: "Grite".
->Agora basta enviar sua mensagem, fácil, não?;;
->Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC.
+>Agora basta enviar sua mensagem, fácil, não?
+>Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC. 
 
 #![FINALIZAÇÃO]
 
 >
->Meus parabéns, você foi aprovado(a) no Curso de Formação de Soldados.
+>Meus parabéns, você foi aprovado no Curso de Formação de Soldados.
 >Coloque uma boina preta e vista a farda do manequim logo atrás.;;
->Você só poderá utilizar acessórios na sua farda quando atingir a patente de sargento. 
+>Você só pode usar acessórios em seu fardamento quando atingir a patente de sargento.
 >Escreva em sua missão: [RCC] Soldado [TAG];;
->Como soldado, você terá que fazer 2 cursos, sendo eles:
->Curso de Aprimoramento de Soldados (CAS): Procure um policial de estrela vermelha.
+>Como soldado, é necessário fazer 2 cursos, na respectiva ordem, sendo eles:
 >Supervisão (SUP): Procure um policial de estrela verde.
+>Curso de Aprimoramento de Soldados (CAS): Procure um policial de estrela vermelha.
 >Quando você quiser voltar a RCC após ter saído do jogo, procure em seu navegador de quartos por: RCC
 >Os quartos de nossa polícia irão aparecer e basta você clicar no batalhão que estiver aberto.
 >Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.
 >Alguma dúvida?;;
->Aguarde, irei postar a instrução. 
+>Aguarde, irei postar a instrução.

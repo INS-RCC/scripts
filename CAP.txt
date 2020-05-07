@@ -12,10 +12,10 @@
 >Nessa aula, você saberá quais são os principais documentos e como ter acesso a eles.
 >Ademais, serão ditas suas características, composição e, no final, ocorrerá um teste teórico.
 >É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
->- Primeiro, entre no site policiarcc.com (avise-me ao entrar).;;
+>- Primeiro, entre no site policiarcc.²com (sem o ²). (avise-me ao entrar);;;
 >- Procure por uma área chamada Setor Judiciário. (Avise-me ao encontrar).;;
 >Estando lá, encontrará todos os documentos.
->Iremos falar sobre cada um deles detalhadamente.
+>Irei falar sobre cada um deles detalhadamente.
 
 #![CÓDIGO DE CONDUTA MILITAR]
 
@@ -23,17 +23,13 @@
 >O Código de Conduta Militar [CCM] é um dos principais documentos da nossa instituição, por abordar
 >um conjunto de informações que representam o que é necessário para o funcionamento da Polícia RCC.
 >O Código de Conduta Militar está dividido em:
->
 >- Código de Conduta Militar: Disposições Gerais;
 >- Código de Conduta Militar: Disposições Complementares;
->
 >Além disso, o CCM possui 04 anexos, sendo eles:
->
 >- Anexo I - Uniforme e Acessórios.
 >- Anexo II - Modelo de Missões;
 >- Anexo III - Política de Baixa e Reintegração;
 >- Anexo IV - Normas para promoções, rebaixamentos e advertências;
-
 >É importante o estudo desses tópicos citados para possuir uma boa noção da constituição militar.
 
 #![CÓDIGO PENAL MILITAR]
@@ -41,16 +37,11 @@
 >
 >O Código Penal Militar [CPM] é o principal documento com relação às penalidades na RCC.
 >Esse código é importantíssimo para entender como, quando e quais são as punições existentes.
->
 >O Código Penal Militar está dividido em:
->
 >- Código Penal Militar;
->
->Além disso, ele também possui 03 anexos, sendo eles:
->
->- Anexo III - Política de exoneração;
+>- Anexo I - Política de Segurança;
 >- Anexo II – Punições;
->- Anexo I - Política de Segurança.
+>- Anexo III - Política de exoneração.
 
 #![PLANO DE CONTROLE EMERGENCIAL]
 
@@ -74,7 +65,7 @@
 >companhia ou subcompanhia.
 >Alguma dúvida?
 
-#![TESTE TEÓRICO - SOMENTE UM SUBTENENTE]
+#![TESTE DE CONDUTA - SOMENTE UM SUBTENENTE]
 
 >
 >Agora irei fazer algumas perguntas relacionadas a aula. Caso erre uma questão, será reprovado(a).
@@ -85,8 +76,7 @@
 >5 - Quantos anexos possui o Código de Conduta Militar e quais são eles?;;
 >6 - Qual documento deve-se ter o conhecimento antes de assumir o posto de Oficial da Guarda?
 
-
-#![TESTE TEÓRICO - MAIS DE UM SUBTENENTE]
+#![TESTE DE CONDUTA - MAIS DE UM SUBTENENTE]
 
 >
 >Cliquem em mim e aperte em "Sussurro". Feito isso, enviem-me uma mensagem.
