@@ -74,7 +74,7 @@
 >3 - Qual a importância do CCM para a nossa polícia?;;
 >4 - Qual é o documento mais importante de uma companhia/subcompanhia e por quê?;;
 >5 - Quantos anexos possui o Código de Conduta Militar e quais são eles?;;
->6 - Qual documento deve-se ter o conhecimento antes de assumir o posto de Oficial da Guarda?
+>6 - Quais os dois documentos deve-se ter o conhecimento antes de assumir o posto de Oficial da Guarda?
 
 #![TESTE DE CONDUTA - MAIS DE UM SUBTENENTE]
 

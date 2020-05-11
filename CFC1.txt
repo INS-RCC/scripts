@@ -24,8 +24,8 @@
 >- Representar a polícia RCC em todos os lugares com elevados padrões;
 >- Não pedir promoção/direitos/pagamento ou pedir para ser avaliado;
 >- Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
->- Jamais usar linguagem chula ou depreciativa;
 >- Não fugir de rondas/aulas/treinos sob hipótese alguma (sob pena de rebaixamento, caso fizer).
+>- Não deixar o perfil no modo offline sob hipótese alguma (sob pena de rebaixamento, caso fizer).
 
 #![FUNÇÕES DO BATALHÃO]
 
