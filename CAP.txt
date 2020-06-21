@@ -1,4 +1,4 @@
-﻿#![INÍCIO] TESTE
+﻿#![INÍCIO]
 
 >
 >Olá, subtenente. Eu sou o(a) instrutor(a) [Nick]
