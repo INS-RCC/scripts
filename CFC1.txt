@@ -63,11 +63,10 @@ com os procedimentos corretos.
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Quem assumiu a RCC em 2008, após a ausência de nabas704?;;
 >02 - Quando a RCC foi fundada?;;
->03 - Qual foi o objetivo de nabas704 ao criar a RCC?;;
->04 - Cite duas regras básicas da RCC.;;
->05 - Quantas e quais são as funções no batalhão da RCC?;;
->06 - Qual a função de cada um dos operadores?;;
->07 - Quais as duas funções do sentinela?
+>03 - Cite duas regras básicas da RCC.;;
+>04 - Quantas e quais são as funções no batalhão da RCC?;;
+>05 - Qual a função de cada um dos operadores?;;
+>06 - Quais as duas funções do sentinela?;;
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
@@ -77,11 +76,10 @@ com os procedimentos corretos.
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Quem assumiu a RCC em 2008, após a ausência de nabas704?;;
 >02 - Quando a RCC foi fundada?;;
->03 - Qual foi o objetivo de nabas704 ao criar a RCC?;;
->04 - Cite duas regras básicas da RCC.;;
->05 - Quantas e quais são as funções no batalhão da RCC?;;
->06 - Qual a função de cada um dos operadores?;;
->07 - Quais as duas funções do sentinela?
+>03 - Cite duas regras básicas da RCC.;;
+>04 - Quantas e quais são as funções no batalhão da RCC?;;
+>05 - Qual a função de cada um dos operadores?;;
+>06 - Quais as duas funções do sentinela?;;
 
 #![FINALIZAÇÃO]
 

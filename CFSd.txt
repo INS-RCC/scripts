@@ -23,7 +23,8 @@
 >número nas costas, e o balão de fala deve ser da cor branca. O recruta deve ser alistado sem boina.
 >O recruta deve possuir o grupo da "Polícia RCC" favoritado, cujo dono é o RCCEmblemas ou -Edhone.
 >É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
->Ao avistar um superior na recepção, você automaticamente tem o dever de assumi-lo na função.
+>Ao avistar um superior na recepção, você tem o dever de assumi-lo na função. Para identificar a
+>patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e emblema.
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
 >Caso esteja na recepção e precise se ausentar ou tenha dúvidas, acene e aguarde que
 >o Cabo da Guarda (policial com balão vermelho) te auxilie ou conceda permissão para saída.
