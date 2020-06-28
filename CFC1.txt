@@ -18,14 +18,14 @@
 #![REGRAS BÁSICAS DA RCC]
 
 >
->Como sabe, na RCC existem várias regras, você deve seguir todas, como:
 >- Nunca desobedecer a habbo etiqueta dentro ou fora do batalhão;
 >- Respeitar todos, sejam inferiores ou superiores;
 >- Representar a polícia RCC em todos os lugares com elevados padrões;
 >- Não pedir promoção/direitos/pagamento ou pedir para ser avaliado;
 >- Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
->- Não fugir de rondas/aulas/treinos sob hipótese alguma (sob pena de rebaixamento, caso fizer).
+>- Não fugir de rondas/aulas/treinos sob hipótese alguma (sob pena de rebaixamento, caso fizer);
 >- Não deixar o perfil no modo offline sob hipótese alguma (sob pena de rebaixamento, caso fizer).
+>- Não deixar seu habbo dormir nas funções, sala de estado ou corredor principal(sujeito a punições).
 
 #![FUNÇÕES DO BATALHÃO]
 
