@@ -13,8 +13,8 @@
 
 >
 >Na RCC, nós temos uma relação entre superiores e entre inferiores/pares, sendo que
->Ao dirigir-se a um inferior ou par, deve-se usar: [Patente/Cargo] + [Nick].
->Ao dirigir-se a um superior, deve-se usar: Senhor(a) + [Patente/Cargo] + [Nick].
+>Ao dirigir-se a um inferior ou par, deve-se usar: [Patente/Cargo] + Nick.
+>Ao dirigir-se a um superior, deve-se usar: Senhor(a) + [Patente/Cargo] + Nick.
 >No atendimento, é obrigatório pedir para que o civil conclua 3 simples requisitos, sendo eles:
 >Missão, fardamento e grupo.
 >Além disso, você também pode identificar a patente/cargo do militar nesses requisitos.
