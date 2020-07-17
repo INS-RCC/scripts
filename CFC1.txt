@@ -26,7 +26,9 @@
 >- Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
 >- Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
 >- Não fugir de rondas/aulas/treinos sob hipótese alguma (sob pena de rebaixamento, caso fizer);
->- Não deixar o perfil no modo offline sob hipótese alguma (sob pena de rebaixamento, caso fizer).
+>- Não deixar o perfil no modo offline sob hipótese alguma (sob pena de rebaixamento, caso fizer);
+>- Sempre obedecer as ordens de seus superiores, sendo justas ou injustas;
+>Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
 
 #![FUNÇÕES DO BATALHÃO]
 
