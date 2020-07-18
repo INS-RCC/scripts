@@ -46,7 +46,7 @@
 >Operadores (OP) - Encontra-se na sala de controle, onde estão as alavancas e os rollers no batalhão.
 >Tem função de facilitar a entrada de policiais ao batalhão e, por segurança, são divididos em 4:
 >OP1: confere a farda, missão e emblema que o policial está naquele momento.
->OP2: confere o perfil, número nas costas e se o balão de fala está branco.
+>OP2: confere o perfil, se não há número nas costas e se o balão de fala está branco.
 >OP3: confere a TAG no System e libera a entrada no batalhão.
 >OP4: confere se os recrutas são exonerados, se constam como policial da ativa e se estão
 com os procedimentos corretos.
@@ -91,8 +91,9 @@ com os procedimentos corretos.
 >Acrescente ao fim de sua missão, após a TAG de quem o promoveu: [CFC1]
 >Como Cabo, você tem grandes responsabilidades e deve ser exemplo para os soldados.
 >Deve manter a atenção e a agilidade em todas as funções que assume na RCC.
+>Aguarde, irei postar a instrução;;
 >Deseja fazer a parte 2 agora?;;
->Aguarde, irei postar a instrução.
+
 
 #![REPROVADO]
 
