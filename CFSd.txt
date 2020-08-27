@@ -17,8 +17,8 @@
 
 >
 >Na RCC, nós temos uma relação entre superiores e entre inferiores/pares, sendo que:
->A forma correta de se dirigir a um inferior/par é: [Patente/Cargo] + [Nick].
->A forma correta de se dirigir a um superior hierárquico é: Senhor(a) + [Patente/Cargo] + [Nick].
+>A forma correta de se dirigir a um inferior/par é: [Patente/Cargo] + ['Nick].
+>A forma correta de se dirigir a um superior hierárquico é: Senhor(a) + [Patente/Cargo] + ['Nick].
 >Sussurrar [Nick] A partir de agora cobre o pronome "senhor(a)" do recruta, caso ele não o use 
 >corretamente. Saia do sussurro antes de continuar a aula.;;
 >No atendimento, é obrigatório pedir para que o civil conclua 3 simples requisitos, sendo eles:
