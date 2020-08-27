@@ -27,45 +27,61 @@
 >- Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
 >- Não fugir de rondas/aulas/treinos sob hipótese alguma (sob pena de rebaixamento, caso fizer);
 >- Não deixar o perfil no modo offline sob hipótese alguma (sob pena de rebaixamento, caso fizer);
->- Sempre obedecer as ordens de seus superiores, sendo justas ou injustas;
+>- Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
 >Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
+
 
 #![FUNÇÕES DO BATALHÃO]
 
 >
+>Sussurrar [Nick] É interessante que o instrutor se dirija para determinada função enquanto
+>estiver explicando sobre ela, o que facilita o entendimento
+>por parte do cabo. Saia do sussurro para que possa continuar a aula.;;
 >Existem 6 funções no batalhão as quais poderá assumir ao longo da sua carreira, sendo elas:
 >Recepção, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
->Sentinela - É o policial que dá uma pré-aula aos Recrutas na  área de recrutas.
+>Sentinela - É o policial que dá uma pré-aula aos Recrutas na área de recrutas.
 >Ele deve ensinar os Recrutas de uma forma saudável e compreensível, abordando temas como:
 >História da RCC, formas de tratamento, negrito e comandos.
 >Também tem como função abrir a porta para o Corredor dos INS. Para abrir a porta digite porta5.
 >O sentinela, além do negrito, deve usar a cor cinza no balão de fala.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
->Vale lembrar que ao assumir sentinela no Batalhão Auxiliar, deverá deixar a lista de exonerados
->aberta, e sempre conferir se o recruta é exonerado ou não. Caso for, avise ao OG.
+>Vale lembrar que ao assumir sentinela no Batalhão Auxiliar, deve sempre conferir se os recrutas
+>constam como policial da ativa ou não no System.
+>Deverá deixar a lista de exonerados aberta, sempre conferindo se o recruta é exonerado ou não.
+>Caso for, avise ao Oficial da Guarda.
 >Operadores (OP) - Encontra-se na sala de controle, onde estão as alavancas e os rollers no batalhão.
 >Tem função de facilitar a entrada de policiais ao batalhão e, por segurança, são divididos em 4:
 >OP1: confere a farda, missão e emblema que o policial está naquele momento.
 >OP2: confere o perfil, se não há número nas costas e se o balão de fala está branco.
 >OP3: confere a TAG no System e libera a entrada no batalhão.
 >OP4: confere se os recrutas são exonerados, se constam como policial da ativa e se estão
-com os procedimentos corretos.
+>com os procedimentos corretos.
 >Para abrir as portas dos OP1, OP2, OP3 ou OP4, digite:  porta1, porta2, porta3 e porta4.
 >Para kikar o recruta, digite: Pk. Vale lembrar que o comando "Pk" só funciona no OP4.
 >Vale lembrar que ao assumir operador  no Batalhão Auxiliar, o OP1 faz a função de conjunta de OP1 e
 >OP2. Enquanto o OP2 no Batalhão Auxiliar assume a função feita pelo OP3 nos demais batalhões.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos. Também tem
 >como função autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
->Pra assumir a função de Auxiliar Operacional, é necessário ser Sargento com o Curso de Formação de
+>Para assumir a função de Auxiliar Operacional, é necessário ser Sargento com o Curso de Formação de
 >Sargentos (CFS), onde também irá aprender sobre as funções: Cabo da Guarda e Oficial da Guarda.
 >Alguma dúvida sobre o conteúdo passado?
+
+#![OPCIONAL - PRATICA NA SALA DE CFC]
+
+>
+>Irei realizar uma prática agora para avaliar se você prestou atenção na aula.
+>Sussurrar [Nick] Peça que o cabo indique no quarto de CFC onde fica cada função explicada
+>em aula. As funções explicadas em aulas são: sentinela, operadores e
+>auxiliar operacional. Saia do sussurro antes de continuar a aula.
 
 #![TESTE DE CONDUTA - SOMENTE UM CABO]
 
 >
+>Sussurrar [Nick] Caso o cabo atinja a quantidade de erros, deverá ser reprovado imediatamente
+>Saia do sussurro antes de continuar a aula.;;
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Quem assumiu a RCC em 2008, após a ausência de nabas704?;;
->02 - Quando a RCC foi fundada?;;
+>02 - Quando e com qual objetivo a RCC foi fundada?;;
 >03 - Cite duas regras básicas da RCC.;;
 >04 - Quantas e quais são as funções no batalhão da RCC?;;
 >05 - Qual a função de cada um dos operadores?;;
@@ -74,11 +90,15 @@ com os procedimentos corretos.
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
 >
+>Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
+>Sussurrar [Nick] Caso o cabo atinja a quantidade de erros, deverá ser reprovado imediatamente
+>Caso tenha outros, aguarde o reprovado retirar-se para dar continuidade.
+>Saia do sussurro antes de continuar com a aula.;;
 >Cliquem em mim e aperte em "Sussurro". Feito isso, enviem-me uma mensagem.;;
 >Todas as respostas deverão ser enviadas via sussurro.
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Quem assumiu a RCC em 2008, após a ausência de nabas704?;;
->02 - Quando a RCC foi fundada?;;
+>02 - Quando e com qual objetivo a RCC foi fundada?;;
 >03 - Cite duas regras básicas da RCC.;;
 >04 - Quantas e quais são as funções no batalhão da RCC?;;
 >05 - Qual a função de cada um dos operadores?;;
@@ -89,11 +109,16 @@ com os procedimentos corretos.
 >
 >Parabéns, você foi qualificado na primeira parte do seu CFC.
 >Acrescente ao fim de sua missão, após a TAG de quem o promoveu: [CFC1]
+>Sussurrar [Nick] Espere o militar realizar o procedimento para seguir o script;;
 >Como Cabo, você tem grandes responsabilidades e deve ser exemplo para os soldados.
 >Deve manter a atenção e a agilidade em todas as funções que assume na RCC.
 >Aguarde, irei postar a instrução;;
->Deseja fazer a parte 2 agora?;;
+>Deseja fazer a parte 2 agora?
 
+>Sussurrar [Nick] É de suma importância que poste todas suas instruções.
+>Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
+>Certifique-se de que os nicks estejam corretos.
+>Saia do sussurro antes de continuar a aula.;;
 
 #![REPROVADO]
 

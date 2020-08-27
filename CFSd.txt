@@ -1,10 +1,14 @@
 ﻿#![INÍCIO]
 
 >
->Olá, recruta. Eu sou o(a) instrutor(a) [Nick].
+>Olá, recruta. Eu sou o(a) instrutor(a) [Nick]
 >Seja bem-vindo ao Curso de Formação de Soldados.
 >Permaneça em silêncio e preste atenção em todas as informações passadas nessa aula.
+>Caso meu avatar saia do jogo sem qualquer aviso prévio, peço que aguarde 5 minutos, caso eu não
+>retorne, desloque-se ao batalhão aberto,  o quarto por onde você se alistou para chegar até aqui.
+
 >Entendido, recruta?;;
+
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família
 >para fazer parte. A RCC foi fundada em 2007, pelo habbo nabas704 e, atualmente,
 >nossos supremos são os senhores: -Edhone / Dean.Santos / nego-bala157 (Eles são autoridade máxima.)
@@ -12,43 +16,71 @@
 #![FORMA DE TRATAMENTO E ATENDIMENTO]
 
 >
->Na RCC, nós temos uma relação entre superiores e entre inferiores/pares, sendo que
->Ao dirigir-se a um inferior ou par, deve-se usar: [Patente/Cargo] + Nick.
->Ao dirigir-se a um superior, deve-se usar: Senhor(a) + [Patente/Cargo] + Nick.
+>Na RCC, nós temos uma relação entre superiores e entre inferiores/pares, sendo que:
+>A forma correta de se dirigir a um inferior/par é: [Patente/Cargo] + [Nick].
+>A forma correta de se dirigir a um superior hierárquico é: Senhor(a) + [Patente/Cargo] + [Nick].
+>Sussurrar [Nick] A partir de agora cobre o pronome "senhor(a)" do recruta, caso ele não o use 
+>corretamente. Saia do sussurro antes de continuar a aula.;;
 >No atendimento, é obrigatório pedir para que o civil conclua 3 simples requisitos, sendo eles:
 >Missão, fardamento e grupo.
->Além disso, você também pode identificar a patente/cargo do militar nesses requisitos.
 >A missão do civil deverá estar toda em branco, com o espaço completamente vazio.
 >A farda do recruta deverá ser toda preta (HC ou não HC). O civil não poderá entrar com acessórios,
 >número nas costas, e o balão de fala deve ser da cor branca. O recruta deve ser alistado sem boina.
 >O recruta deve possuir o grupo da "Polícia RCC" favoritado, cujo dono é o RCCEmblemas ou -Edhone.
 >É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
 >Ao avistar um superior na recepção, você tem o dever de assumi-lo na função. Para identificar a
->patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e emblema.
+>patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e grupo.
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
 >Caso esteja na recepção e precise se ausentar ou tenha dúvidas, acene e aguarde que
 >o Cabo da Guarda (policial com balão vermelho) te auxilie ou conceda permissão para saída.
->Alguma dúvida?
+>Alguma dúvida?;;
 
 #![TESTE TEÓRICO - UM SOLDADO]
 
 >
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
+>Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado 
+>imediatamente. Saia do sussurro antes de continuar a aula.;;
+
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Qual é a norma de tratamento utilizada com INFERIORES e PARES de patente/cargo?;;
->3) Qual é a norma de tratamento utilizada com SUPERIORES de patente/cargo?;;
+>2) Como você deve se dirigir a INFERIORES e PARES de patente/cargo?;;
+>3) Como você deve se dirigir a SUPERIORES de patente/cargo?;;
 >4) Como deve ser a missão de um recruta?;;
 >5) Qual é a forma correta de assumir um superior na recepção?;;
 
-#![TESTE TEÓRICO - MAIS DE UM SOLDADO]
+#![TESTE TEÓRICO - MAIS DE UM SOLDADO - PRIMEIRA PARTE]
+
+>
+>Está jogando pelo computador ou pelo celular?
+
+#![TESTE TEÓRICO - COMPUTADOR]
 
 >
 >Cliquem em mim e apertem em "Sussurro". Feito isso, enviem-me uma mensagem.
->Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.;;
+>Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.
+>Todas as respostas deverão ser enviadas via sussurro.
+>Sussurrar [Nick] Caso os recrutas não consigam sussurrar, siga daqui:
+>Saia do sussurro antes de voltar pra aula.;;
+>Certo, aguarde-me que irei reentrar no quarto.
+
+#![TESTE TEÓRICO - CELULAR]
+
+>
+>Segure o dedo em mim e apertem em "Sussurrar". Feito isso, enviem-me uma mensagem.;;
+>Sussurrar [Nick] Caso não consiga selecionar seu personagem, siga daqui.
+>Lembre-se de sair do sussurro antes de continuar a aula.;;
+>Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".
+
+#![TESTE TEÓRICO - PARTE FINAL]
+
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
+>Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado 
+>imediatamente. Caso tenha outros, aguarde o reprovado retirar-se para dar
+>continuidade. Saia do sussurro antes de continuar aula.;;
+
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Qual é a norma de tratamento utilizada com INFERIORES e PARES de patente/cargo?;;
->3) Qual é a norma de tratamento utilizada com SUPERIORES de patente/cargo?;;
+>2) Como você deve se dirigir a INFERIORES e PARES de patente/cargo?;;
+>3) Como você deve se dirigir a SUPERIORES de patente/cargo?;;
 >4) Como deve ser a missão de um recruta?;;
 >5) Qual é a forma correta de assumir um superior na recepção?;;
 
@@ -58,18 +90,39 @@
 >Lamento, você está reprovado(a). Mas não desista, retorne ao batalhão e
 >aliste-se novamente. Confio no seu potencial e sei que é capaz de aprovar.
 
-#![OPCIONAL - TESTE PRÁTICO]
+#![OPCIONAL - SALAS 01 A 05]
 
 >
 >Irei realizar uma prática agora para avaliar se você prestou atenção na aula.
+>Sussurrar [Nick] Peça a um dos recrutas que lhe assuma na recepção;
+>Coloque um visual de recruta com acessórios disfarçados (boina, número nas
+>costas, calças sem bolsos, etc) e peça para que um recruta te aliste, ou
+>simplesmente te sussurre quais os erros no seu fardamento. Saia do sussurro 
+>antes de continuar a aula.
+
+#![OPCIONAL - SALAS AUTOMÁTICAS]
+
+>
+>Irei realizar uma prática agora para avaliar se você prestou atenção na aula.
+>Sussurrar [Nick] Peça a um dos recrutas que lhe assuma na recepção;
+>Coloque um visual de recruta com acessórios disfarçados (boina, número nas
+>costas, calças sem bolsos, etc) e peça para que um recruta te aliste, ou
+>simplesmente te sussurre quais os erros no seu fardamento. 
+>Obs: Você vai retirando à medida que os recrutas forem citando.
+>Saia do sussurro antes de continuar a aula.
 
 #![COMANDOS]
 
 >
 >Na RCC nós temos 8 comandos, sendo eles: Sentido, continência, apresentar armas,
 >marcar passos, silêncio, à vontade, apresentar-se e dispensado.
->Sem contar com o apresentar-se e dispensado, você conhece os comandos da RCC?;;
+>Sem contar com o apresentar-se e o dispensado, você sabe executar os demais comandos da RCC?
+>Sussurrar [Nick] Caso o recruta diga que CONHECE TODOS, pratique os comandos. Caso ele diga
+>que NÃO OU ALGUNS, está terminantemente PROIBIDO pular essa parte.
+>Saia do sussurro antes de continuar a aula.;;
 >Agora, irei ensiná-los para você.
+>Sussurrar [Nick] Pratique cada comando logo após explica-lo antes de prosseguir ao próximo.;;
+>Saia do sussurro antes de prosseguir com a aula.;;
 >1. Sentido: Nesse comando você deverá dar um passo à frente.
 >Enquanto estiver no comando sentido, permaneça em silêncio, reto e imóvel.
 >Sentido!;;
@@ -112,13 +165,16 @@
 >Agora basta enviar sua mensagem, fácil, não?
 >Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC. 
 
-#![FINALIZAÇÃO]
+#![FINALIZAÇÃO - PARTE 01]
 
 >
 >Meus parabéns, você foi aprovado no Curso de Formação de Soldados.
->Coloque uma boina preta e vista a farda do manequim logo atrás.;;
+>Coloque uma boina preta e vista a farda do manequim logo atrás.
+>Sussurrar [Nick]Espere o recruta colocar sua farda para enviar a próxima mensagem.;;
 >Você só pode usar acessórios em seu fardamento quando atingir a patente de sargento.
->Escreva em sua missão: [RCC] Soldado [TAG];;
+>Escreva em sua missão: [RCC] Soldado [TAG]
+>Sussurrar [Nick] Caso o soldado não saiba mudar a missão, ensine-o.
+>No aulador tem tópicos ensinando como faz. Saia do sussurro antes de continuar a aula.;;
 >Como soldado, é necessário fazer 2 cursos, na respectiva ordem, sendo eles:
 >Supervisão (SUP): Procure um policial de estrela verde.
 >Curso de Aprimoramento de Soldados (CAS): Procure um policial de estrela vermelha.
@@ -127,3 +183,7 @@
 >Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.
 >Alguma dúvida?;;
 >Aguarde, irei postar a instrução.
+>Sussurrar [Nick] É de suma importância que poste todas suas instruções.
+>Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
+>Certifique-se de que os nicks estejam corretos.
+>Lembre-se de sair do sussurro antes de continuar a aula.
