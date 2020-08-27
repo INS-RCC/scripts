@@ -147,14 +147,17 @@
 
 >
 >Você sabe utilizar o negrito?
->Utilize suas falas em negrito sempre que estiver na RCC.
+>Utilize suas falas em negrito sempre que estiver na RCC.;;
+>Sussurrar [Nick] Caso o recruta não saiba continue daqui.
+>Saia do sussurro antes de continuar a aula.;;
+>Você está pelo computador ou celular?
 
 #![CASO NÃO SAIBA - PC]
 
 >
 >Na RCC, o uso do negrito nas falas é obrigatório.
 >Faça o teste, digite: "Aprendi, senhor(a)", sem enviar
->Pressione a tecla SHIFT+ENTER e sua mensagem será enviada em negrito.
+>Pressione a tecla SHIFT+ENTER e sua mensagem será enviada em negrito.;;
 >Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC.
 
 #![CASO NÃO SAIBA - CELULAR/TABLET]
@@ -162,7 +165,7 @@
 >
 >Ao escrever a mensagem, aparecerá uma "caixinha" do lado da caixa de texto escrita "Fale".
 >Clique nela e selecione a opção: "Grite".
->Agora basta enviar sua mensagem, fácil, não?
+>Agora basta enviar sua mensagem, fácil, não?;;
 >Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC. 
 
 #![FINALIZAÇÃO - PARTE 01]
@@ -170,7 +173,8 @@
 >
 >Meus parabéns, você foi aprovado no Curso de Formação de Soldados.
 >Coloque uma boina preta e vista a farda do manequim logo atrás.
->Sussurrar [Nick]Espere o recruta colocar sua farda para enviar a próxima mensagem.;;
+>Sussurrar [Nick] Espere o recruta colocar sua farda para enviar a próxima mensagem.
+>Saia do sussurro antes de continuar a aula.;; 
 >Você só pode usar acessórios em seu fardamento quando atingir a patente de sargento.
 >Escreva em sua missão: [RCC] Soldado [TAG]
 >Sussurrar [Nick] Caso o soldado não saiba mudar a missão, ensine-o.
@@ -187,3 +191,18 @@
 >Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
 >Certifique-se de que os nicks estejam corretos.
 >Lembre-se de sair do sussurro antes de continuar a aula.
+
+#![MUDAR MISSÃO - PC/NOTEBOOK}
+
+>
+>Aperte em seu avatar;
+>Abaixo do seu avatar, tem uma barra cinza escrito: "Mude sua missão..." (Clique 2x para alterar)
+>Essa é sua missão, agora anote nela: [RCC] Soldado [TAG]
+
+
+#![MUDAR MISSÃO - CELULAR/TABLET]
+
+>
+>Aperte na imagem do rosto do seu avatar e clique em "Meu Perfil";
+>Em seguida, aperte onde está escrito "Mudar sua missão". (Clique no ícone do lápis)
+>Essa é sua missão, agora anote nela: [RCC] Soldado [TAG]
