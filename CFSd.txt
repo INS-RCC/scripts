@@ -33,7 +33,7 @@
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
 >Caso esteja na recepção e precise se ausentar ou tenha dúvidas, acene e aguarde que
 >o Cabo da Guarda (policial com balão vermelho) te auxilie ou conceda permissão para saída.
->Alguma dúvida?;;
+>Alguma dúvida?
 
 #![TESTE TEÓRICO - UM SOLDADO]
 
