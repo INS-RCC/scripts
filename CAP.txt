@@ -111,7 +111,7 @@
 >Sussurrar [Nick] É de suma importância que poste todas suas instruções.
 >Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
 >Certifique-se de que os nicks estejam corretos.
->Saia do sussurro antes de continuar a aula.;;
+>Saia do sussurro antes de continuar a aula.
 
 #![REPROVADO]
 
