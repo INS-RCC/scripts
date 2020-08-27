@@ -66,7 +66,7 @@
 #![TESTE TEÓRICO - CELULAR]
 
 >
->Segure o dedo em mim e apertem em "Sussurrar". Feito isso, enviem-me uma mensagem.;;
+>Segure o dedo em mim e apertem em "Sussurrar". Feito isso, enviem-me uma mensagem.
 >Sussurrar [Nick] Caso não consiga selecionar seu personagem, siga daqui.
 >Lembre-se de sair do sussurro antes de continuar a aula.;;
 >Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".
