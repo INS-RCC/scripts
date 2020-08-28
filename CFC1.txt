@@ -85,7 +85,7 @@
 >03 - Cite duas regras básicas da RCC.;;
 >04 - Quantas e quais são as funções no batalhão da RCC?;;
 >05 - Qual a função de cada um dos operadores?;;
->06 - Quais as duas funções do sentinela?;;
+>06 - Quais as duas funções do sentinela?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
@@ -102,14 +102,15 @@
 >03 - Cite duas regras básicas da RCC.;;
 >04 - Quantas e quais são as funções no batalhão da RCC?;;
 >05 - Qual a função de cada um dos operadores?;;
->06 - Quais as duas funções do sentinela?;;
+>06 - Quais as duas funções do sentinela?
 
 #![FINALIZAÇÃO]
 
 >
 >Parabéns, você foi qualificado na primeira parte do seu CFC.
 >Acrescente ao fim de sua missão, após a TAG de quem o promoveu: [CFC1]
->Sussurrar [Nick] Espere o militar realizar o procedimento para seguir o script;;
+>Sussurrar [Nick] Espere o militar realizar o procedimento para seguir o script.
+>Saia do sussurro antes de continuar a aula.;;
 >Como Cabo, você tem grandes responsabilidades e deve ser exemplo para os soldados.
 >Deve manter a atenção e a agilidade em todas as funções que assume na RCC.
 >Aguarde, irei postar a instrução;;
