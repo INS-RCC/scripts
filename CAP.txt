@@ -49,7 +49,7 @@
 >com eles. O estudo dele é importante pelas suas instruções nos casos de perigo ao batalhão.
 >Diferente dos outros documentos, ele está localizado na área "Comando de Segurança Institucional".
 >Ele deve ser ativado em situações de emergência ou acidentes. O PCE é dividido em:
->- Diretrizes: Plano de Controle Emergencial (PCE);
+>- Plano de Controle Emergencial;
 >- Anexo I - Manual de Utilização do Chooser.
 
 #![MANUAL: COMANDO DO BATALHÃO]

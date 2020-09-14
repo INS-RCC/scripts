@@ -67,6 +67,7 @@
 
 >
 >Segure o dedo em mim e apertem em "Sussurrar". Feito isso, enviem-me uma mensagem.
+>Todas as respostas deverão ser enviadas via sussurro.
 >Sussurrar [Nick] Caso não consiga selecionar seu personagem, siga daqui.
 >Lembre-se de sair do sussurro antes de continuar a aula.;;
 >Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".
@@ -156,7 +157,7 @@
 
 >
 >Na RCC, o uso do negrito nas falas é obrigatório.
->Faça o teste, digite: "Aprendi, senhor(a)", sem enviar
+>Faça o teste, digite: "Aprendi, senhor(a).", sem enviar
 >Pressione a tecla SHIFT+ENTER e sua mensagem será enviada em negrito.;;
 >Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC.
 
