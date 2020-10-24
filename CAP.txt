@@ -4,17 +4,31 @@
 >Olá, subtenente. Eu sou o(a) instrutor(a) [Nick]
 >Irei aplicar, agora, o Curso de Aperfeiçoamento de Praças [CAP].
 >Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
+>Você sabe como encontrar os documentos da Polícia RCC no fórum?;
 
-#![PRÓLOGO]
+#![CASO NÃO SAIBA-PRÓLOGO]
 
 >
->Em nossa instituição, existem vários documentos. Esses servem para que haja ordem e organização.
->Nessa aula, você saberá quais são os principais documentos e como ter acesso a eles.
->Ademais, serão ditas suas características, composição e, no final, ocorrerá um teste teórico.
+>Em nossa instituição há documentos que contribuem para que haja ordem e organização.
+>Será ensinado a como chegar neles, características e composição.
 >É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
->- Primeiro, entre no site policiarcc.²com (sem o ²). (avise-me ao entrar);;;
->- Procure por uma área chamada Setor Judiciário. (Avise-me ao encontrar).;;
->Lá, encontrará todos os documentos que iremos abordar detalhadamente a seguir.
+>- Primeiro, entre no site policiarcc.²com/forum (sem o ²). (Avise-me ao entrar);
+>- Procure por uma área chamada "Setor Judiciário". (Avise-me ao encontrar).
+>Nessa área, encontrará os documentos Código de Conduta Militar, Código Penal Militar e
+>Diretrizes: Comando do Batalhão.
+>- Procure por uma área chamada "Comando de Segurança Institucional". (Avise-me ao encontrar).
+>Nessa área encontrará o Plano de Controle Emergencial e Anexos.
+>Sussurrar [Nick] Continue a partir de Código de Conduta Militar.
+>Saia do sussurro antes de continuar.
+
+#![CASO SAIBA]
+
+>
+>Em nossa instituição há documentos que contribuem para que haja ordem e organização.
+>Será ensinado suas características e composição.
+>É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
+>Sussurrar [Nick] Continue a partir de Código de Conduta Militar.
+>Saia do sussurro antes de continuar.
 
 #![CÓDIGO DE CONDUTA MILITAR]
 
@@ -45,19 +59,14 @@
 #![PLANO DE CONTROLE EMERGENCIAL]
 
 >
->O Plano de Controle Emergencial [PCE] é importante para saber quais são os riscos e como lidar
->com eles. O estudo dele é importante pelas suas instruções nos casos de perigo ao batalhão.
->Diferente dos outros documentos, ele está localizado na área "Comando de Segurança Institucional".
->Ele deve ser ativado em situações de emergência ou acidentes. O PCE é dividido em:
->- Plano de Controle Emergencial;
+>Plano de Controle Emergencial [PCE] é de suma importância para o saber
+>do que fazer em situações adversas à segurança do batalhão.
+>Você usará o PCE quando for Oficial da Guarda e acontecer uma emergência ou acidente.
+>O Plano de Controle Emergencial está dividido em duas partes, sendo elas:
+>- Plano de Controle Emergencial.
 >- Anexo I - Manual de Utilização do Chooser.
-
-#![MANUAL: COMANDO DO BATALHÃO]
-
->
->Este documento aborda sobre como obter um bom rendimento como Oficial da Guarda, para mantê-lo em
->bom contingente e seguir regras propostas. É de extrema importância obter conhecimento deste
->documento antes de se assumir o posto, para evitar punições ao tomar decisões/atitudes incorretas.
+>Além do PCE, o documento "Manual: Comando do Batalhão" também é de extrema importância fazer a
+>leitura deste documento antes de se assumir o posto de Oficial da Guarda.
 
 #![REGIMENTOS INTERNOS]
 
