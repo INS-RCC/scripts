@@ -18,8 +18,6 @@
 >Diretrizes: Comando do Batalhão.
 >- Procure por uma área chamada "Comando de Segurança Institucional". (Avise-me ao encontrar).
 >Nessa área encontrará o Plano de Controle Emergencial e Anexos.
->Sussurrar [Nick] Continue a partir de Código de Conduta Militar.
->Saia do sussurro antes de continuar.
 
 #![CASO SAIBA]
 
@@ -27,8 +25,6 @@
 >Em nossa instituição há documentos que contribuem para que haja ordem e organização.
 >Será ensinado suas características e composição.
 >É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
->Sussurrar [Nick] Continue a partir de Código de Conduta Militar.
->Saia do sussurro antes de continuar.
 
 #![CÓDIGO DE CONDUTA MILITAR]
 
@@ -37,12 +33,11 @@
 >um conjunto de informações que representam o que é necessário para o funcionamento da Polícia RCC.
 >O Código de Conduta Militar está dividido em 2 partes e 4 anexos, sendo eles:
 >- Código de Conduta Militar: Disposições Gerais;
->- Código de Conduta Militar: Disposições Complementares;
->
->- Anexo I - Uniforme e Acessórios.
+>- Código de Conduta Militar: Disposições Complementares.
+>- Anexo I - Uniforme e Acessórios;
 >- Anexo II - Modelo de Missões;
 >- Anexo III - Política de Baixa e Reintegração;
->- Anexo IV - Normas para promoções, rebaixamentos e advertências;
+>- Anexo IV - Normas para promoções, rebaixamentos e advertências.
 >É importante o estudo desses tópicos citados para possuir uma boa noção da constituição militar.
 
 #![CÓDIGO PENAL MILITAR]
@@ -50,11 +45,10 @@
 >
 >O Código Penal Militar [CPM] é o principal documento com relação às penalidades na RCC.
 >Esse código é importantíssimo para entender como, quando e quais são as punições existentes.
->O Código Penal Militar está dividido em:
+>O Código Penal Militar está dividido em uma parte e dois anexos, sendo eles:
 >- Código Penal Militar;
->- Anexo I - Política de Segurança;
->- Anexo II – Punições;
->- Anexo III - Política de exoneração.
+>- Anexo I – Punições;
+>- Anexo II - Política de exoneração.
 
 #![PLANO DE CONTROLE EMERGENCIAL]
 
@@ -116,7 +110,6 @@
 >Agora que concluiu o CAP, procure um supervisor (brevê verde) para obter seu PRO.
 >Lembre-se também de começar a aprofundar-se nos documentos da RCC.
 >Aguarde, irei postar a instrução.
-
 >Sussurrar [Nick] É de suma importância que poste todas suas instruções.
 >Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
 >Certifique-se de que os nicks estejam corretos.

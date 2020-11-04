@@ -6,7 +6,7 @@
 >Permaneça em silêncio e preste atenção em todas as informações passadas nessa aula.
 >Caso meu avatar saia do jogo sem qualquer aviso prévio, peço que aguarde 5 minutos, caso eu não
 >retorne, desloque-se ao batalhão aberto,  o quarto por onde você se alistou para chegar até aqui.
->Entendido, recruta?
+>Entendido, recruta?;;
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família
 >para fazer parte. A RCC foi fundada em 2007, pelo habbo nabas704 e, atualmente,
 >nossos supremos são os senhores: -Edhone / Dean.Santos / nego-bala157 (Eles são autoridade máxima.)
@@ -26,12 +26,13 @@
 >número nas costas, e o balão de fala deve ser da cor branca. O recruta deve ser alistado sem boina.
 >O recruta deve possuir o grupo da "Polícia RCC" favoritado, cujo dono é o Dean.Santos.
 >É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
+>Também é proibido a entrada de recrutas/policiais com grupos que vão contra a Habbo Etiqueta.
+>Se algum recruta/policial fazer parte de algum grupo proibido, peça ao mesmo que se retire dele(s).
 >Ao avistar um superior na recepção, você tem o dever de assumi-lo na função. Para identificar a
 >patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e grupo.
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
 >Caso esteja na recepção e precise se ausentar ou tenha dúvidas, acene e aguarde que
 >o Cabo da Guarda (policial com balão vermelho) te auxilie ou conceda permissão para saída.
-
 >Alguma dúvida?
 
 #![TESTE TEÓRICO - UM SOLDADO]
@@ -121,7 +122,7 @@
 >que NÃO OU ALGUNS, está terminantemente PROIBIDO pular essa parte.
 >Saia do sussurro antes de continuar a aula.;;
 >Agora, irei ensiná-los para você.
->Sussurrar [Nick] Pratique cada comando logo após explica-lo antes de prosseguir ao próximo.;;
+>Sussurrar [Nick] Pratique cada comando logo após explica-lo antes de prosseguir ao próximo.
 >Saia do sussurro antes de prosseguir com a aula.;;
 >1. Sentido: Nesse comando você deverá dar um passo à frente.
 >Enquanto estiver no comando sentido, permaneça em silêncio, reto e imóvel.
@@ -137,9 +138,9 @@
 >Para dançar, clique em seu Habbo e aperte em "dançar".
 >Marcar passos!;;
 >5. Silêncio: Nesse comando não é permitido que você fale, nem responda perguntas sem permissão.
->Silêncio!;;
+>Silêncio!
 >6. À vontade: Nesse comando você estará livre para retornar ao que estava fazendo.
->À vontade;;
+>Á vontade!
 >Os comandos apresente-se e dispensado você irá aprender em um dos cursos de soldado.
 >Alguma dúvida sobre os comandos?
 
