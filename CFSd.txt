@@ -2,10 +2,8 @@
 
 >
 >Olá, recruta. Eu sou o(a) instrutor(a) [Nick]
->Seja bem-vindo ao Curso de Formação de Soldados.
->Permaneça em silêncio e preste atenção em todas as informações passadas nessa aula.
->Caso meu avatar saia do jogo sem qualquer aviso prévio, peço que aguarde 5 minutos, caso eu não
->retorne, desloque-se ao batalhão aberto,  o quarto por onde você se alistou para chegar até aqui.
+>Seja bem-vindo(a) à RCC! Permaneça em silêncio e preste atenção ao conteúdo repassado na instrução.
+>Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
 >Entendido, recruta?;;
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família
 >para fazer parte. A RCC foi fundada em 2007, pelo habbo nabas704 e, atualmente,
@@ -19,8 +17,7 @@
 >A forma correta de se dirigir a um superior hierárquico é: Senhor(a) + [Patente/Cargo] + [Nic.k].
 >Sussurrar [Nick] A partir de agora cobre o pronome "senhor(a)" do recruta, caso ele não o use 
 >corretamente. Saia do sussurro antes de continuar a aula.;;
->No atendimento, é obrigatório pedir para que o civil conclua 3 simples requisitos, sendo eles:
->Missão, fardamento e grupo.
+>Para o alistamento, é obrigatório que o civil porte três requisitos: Missão, farda e grupo.
 >A missão do civil deverá estar toda em branco, com o espaço completamente vazio.
 >A farda do recruta deverá ser toda preta (HC ou não HC). O civil não poderá entrar com acessórios,
 >número nas costas, e o balão de fala deve ser da cor branca. O recruta deve ser alistado sem boina.
@@ -31,8 +28,7 @@
 >Ao avistar um superior na recepção, você tem o dever de assumi-lo na função. Para identificar a
 >patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e grupo.
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
->Caso esteja na recepção e precise se ausentar ou tenha dúvidas, acene e aguarde que
->o Cabo da Guarda (policial com balão vermelho) te auxilie ou conceda permissão para saída.
+>Caso precise sair ou pedir ajuda, acene que um policial de fala vermelho irá te ajudar.
 >Alguma dúvida?
 
 #![TESTE TEÓRICO - UM SOLDADO]
@@ -51,6 +47,7 @@
 #![TESTE TEÓRICO - MAIS DE UM SOLDADO - PRIMEIRA PARTE]
 
 >
+>Vocês conseguem sussurrar comigo?
 >Está jogando pelo computador ou pelo celular?
 
 #![TESTE TEÓRICO - COMPUTADOR]
@@ -129,13 +126,11 @@
 >Sentido!;;
 >2. Continência: Nesse comando você deverá acenar uma única vez. Dica: Envie "o/".
 >Continência!;;
->3. Apresentar armas: Nesse comando você deverá acenar sem parar.
->Só poderá parar de acenar quando for comandado "sentido" novamente.
->Dica: Envie "o/" a cada 4 segundos.
+>3. Apresentar armas: Nesse comando você deverá acenar sem parar, fazendo-o apenas quando for
+>dado o comandado sentido novamente. Dica: Envie "o/" a cada 4 segundos.
 >Apresentar armas!;;
 >4. Marcar passos: Nesse comando você deverá dançar hap-hop sem sair do local.
->Só pare de dançar quando for comandado "sentido" novamente.
->Para dançar, clique em seu Habbo e aperte em "dançar".
+>Poderá parar quando for dado "sentido" novamente. Clique em parar de dançar para parar.
 >Marcar passos!;;
 >5. Silêncio: Nesse comando não é permitido que você fale, nem responda perguntas sem permissão.
 >Silêncio!
@@ -180,9 +175,8 @@
 >Escreva em sua missão: [RCC] Soldado [TAG]
 >Sussurrar [Nick] Caso o soldado não saiba mudar a missão, ensine-o.
 >No aulador tem tópicos ensinando como faz. Saia do sussurro antes de continuar a aula.;;
->Como soldado, é necessário fazer 2 cursos, na respectiva ordem, sendo eles:
->Supervisão (SUP): Procure um policial de estrela verde.
->Curso de Aprimoramento de Soldados (CAS): Procure um policial de estrela vermelha.
+>A seguir, você deverá fazer a Supervisão, com um policial de estrela verde, e o
+>Curso de Aprimoramento de Soldados, com um policial de estrela vermelha.
 >Quando você quiser voltar a RCC após ter saído do jogo, procure em seu navegador de quartos por: RCC
 >Os quartos de nossa polícia irão aparecer e basta você clicar no batalhão que estiver aberto.
 >Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.
