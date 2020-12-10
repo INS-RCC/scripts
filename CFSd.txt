@@ -1,4 +1,4 @@
-﻿#![INÍCIO]oi
+﻿#![INÍCIO]
 
 >
 >Olá, recruta. Eu sou o(a) instrutor(a) [Nick]
@@ -6,7 +6,7 @@
 >Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
 >Entendido, recruta?;;
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família
->para fazer parte. A RCC foi fundada em 2007, pelo habbo nabas704 e, atualmente,
+>para fazer parte. A RCC foi fundada em 2007, pelo Nabas704 (Atual Nabas201) e, atualmente,
 >nossos supremos são os senhores: -Edhone / Dean.Santos / nego-bala157 (Eles são autoridade máxima.)
 
 #![FORMA DE TRATAMENTO E ATENDIMENTO]
@@ -20,7 +20,8 @@
 >Para o alistamento, é obrigatório que o civil porte três requisitos: Missão, farda e grupo.
 >A missão do civil deverá estar toda em branco, com o espaço completamente vazio.
 >A farda do recruta deverá ser toda preta (HC ou não HC). O civil não poderá entrar com acessórios,
->número nas costas, e o balão de fala deve ser da cor branca. O recruta deve ser alistado sem boina.
+>barba ou rosto com barba, número nas costas, e o balão de fala deve ser da cor branca.
+>O recruta deve ser alistado sem boina.
 >O recruta deve possuir o grupo da "Polícia RCC" favoritado, cujo dono é o Dean.Santos.
 >É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
 >Também é proibido a entrada de recrutas/policiais com grupos que vão contra a Habbo Etiqueta.
@@ -28,7 +29,7 @@
 >Ao avistar um superior na recepção, você tem o dever de assumi-lo na função. Para identificar a
 >patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e grupo.
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
->Caso precise sair ou pedir ajuda, acene que um policial de fala vermelho irá te ajudar.
+>Caso precise sair ou pedir ajuda, acene que um policial com balão de fala vermelho irá te ajudar.
 >Alguma dúvida?
 
 #![TESTE TEÓRICO - UM SOLDADO]
@@ -175,8 +176,8 @@
 >Escreva em sua missão: [RCC] Soldado [TAG]
 >Sussurrar [Nick] Caso o soldado não saiba mudar a missão, ensine-o.
 >No aulador tem tópicos ensinando como faz. Saia do sussurro antes de continuar a aula.;;
->A seguir, você deverá fazer a Supervisão, com um policial de estrela verde, e o
->Curso de Aprimoramento de Soldados, com um policial de estrela vermelha.
+>A seguir, você deverá fazer a Supervisão, com um policial de estrela verde (SUP), e o
+>Curso de Aprimoramento de Soldados, com um policial de estrela vermelha (TRE).
 >Quando você quiser voltar a RCC após ter saído do jogo, procure em seu navegador de quartos por: RCC
 >Os quartos de nossa polícia irão aparecer e basta você clicar no batalhão que estiver aberto.
 >Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.

@@ -10,7 +10,7 @@
 >
 >A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro.
 >Foi fundada com o objetivo de acabar com o crime no Habbo, pelo usuário nabas704 (atual nabas201).
->Agora com o objetivo mais voltado a formar líderes exemplares.
+>Agora, também com o objetivo mais voltado a formar líderes exemplares.
 >Nossos atuais supremos são: -Edhone / Dean.Santos / nego-bala157
 
 #![REGRAS BÁSICAS DA RCC]
@@ -29,7 +29,7 @@
 >- Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
 >Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
 >Vale ressaltar que caso descumpra as regras estará sujeito a punições.
->Punições estas que podem ser: advertência verbal, apresentar-armas, REBAIXAMENTO,
+>Punições estas que podem ser: advertência verbal, apresentar-armas, rebaixamento,
 >demissão e até exoneração.
 
 #![FUNÇÕES DO BATALHÃO]
@@ -81,7 +81,7 @@
 >03 - Quantas e quais são as funções no batalhão da RCC?;;
 >04 - Qual a função de cada um dos operadores?;;
 >05 - Qual a forma correta de abrir as portas de acesso sendo operador e como expulsa sendo OP4?;;
->06 - Quais as duas funções do sentinela? E como abre a sua porta?
+>06 - Quais as duas funções do sentinela? E qual sua função extra dentro do batalhão auxiliar?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
