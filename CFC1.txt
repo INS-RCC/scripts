@@ -76,7 +76,7 @@
 >Sussurrar [Nick] Caso o cabo atinja a quantidade de erros, deverá ser reprovado imediatamente
 >Saia do sussurro antes de continuar a aula.;;
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
->01 - Quando e com qual objetivo a RCC foi fundada?;;
+>01 - Qual a data simbólica da fundação da RCC? E quais seus dois objetivos?;;
 >02 - Cite duas regras básicas da RCC.;;
 >03 - Quantas e quais são as funções no batalhão da RCC?;;
 >04 - Qual a função de cada um dos operadores?;;
@@ -93,7 +93,7 @@
 >Cliquem em mim e aperte em "Sussurro". Feito isso, enviem-me uma mensagem.;;
 >Todas as respostas deverão ser enviadas via sussurro.
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
->01 - Quando e com qual objetivo a RCC foi fundada?;;
+>01 - Qual a data simbólica da fundação da RCC? E quais seus dois objetivos?;;
 >02 - Cite duas regras básicas da RCC.;;
 >03 - Quantas e quais são as funções no batalhão da RCC?;;
 >04 - Qual a função de cada um dos operadores?;;

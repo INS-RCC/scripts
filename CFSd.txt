@@ -19,9 +19,8 @@
 >corretamente. Saia do sussurro antes de continuar a aula.;;
 >Para o alistamento, é obrigatório que o civil porte três requisitos: Missão, farda e grupo.
 >A missão do civil deverá estar toda em branco, com o espaço completamente vazio.
->A farda do recruta deverá ser toda preta (HC ou não HC). O civil não poderá entrar com acessórios,
->barba ou rosto com barba, número nas costas, e o balão de fala deve ser da cor branca.
->O recruta deve ser alistado sem boina.
+>A farda do recruta deverá ser toda preta (HC ou não HC). O civil não poderá entrar com boina,
+>acessórios, barba ou rosto com barba, número nas costas, e o balão de fala deve ser da cor branca.
 >O recruta deve possuir o grupo da "Polícia RCC" favoritado, cujo dono é o Dean.Santos.
 >É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
 >Também é proibido a entrada de recrutas/policiais com grupos que vão contra a Habbo Etiqueta.
@@ -40,7 +39,7 @@
 >imediatamente. Saia do sussurro antes de continuar a aula.;;
 
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Como você deve se dirigir a INFERIORES e PARES de patente/cargo?;;
+>2) Como você deve se dirigir a SUBALTERNOS e PARES de patente/cargo?;;
 >3) Como você deve se dirigir a SUPERIORES de patente/cargo?;;
 >4) Como deve ser a missão de um recruta?;;
 >5) Qual é a forma correta de assumir um superior na recepção?;;
