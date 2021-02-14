@@ -1,4 +1,4 @@
-﻿#![INÍCIO]testea
+﻿#![INÍCIO]
 >Olá, subtenente. Eu sou o(a) instrutor(a) [Nick]
 >Irei aplicar, agora, o Curso de Aperfeiçoamento de Praças [CAP].
 >Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
