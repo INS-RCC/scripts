@@ -2,8 +2,7 @@
 
 >
 >Olá, sou o(a) instrutor(a) [Nick] e irei lhe aplicar o Curso de Formação de Cabos, parte 01.
->Nele você aprenderá mais a fundo sobre nossa policia, lhe preparando para seguir carreira na RCC.
->Na parte 02, irá aprender a como manusear o nosso fórum e o System.
+>
 
 #![HISTÓRIA]
 
@@ -11,22 +10,22 @@
 >A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro.
 >Foi fundada com o objetivo de acabar com o crime no Habbo, pelo usuário nabas704 (atual nabas201).
 >Agora, também com o objetivo mais voltado a formar líderes exemplares.
->Nossos atuais supremos são: -Edhone / Dean.Santos / nego-bala157
+>
 
 #![REGRAS BÁSICAS DA RCC]
 
 >
 >Como sabe, na RCC existem várias regras, você deve seguir todas, como:
->- Nunca desobedecer a habbo etiqueta dentro ou fora do batalhão;
->- Respeitar todos, sejam subalternos ou superiores;
->- Representar a polícia RCC em todos os lugares com elevados padrões;
->- Não pedir promoção/direitos/pagamento/gratificação ou para ser avaliado;
->- Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
->- Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
->- Não fugir de rondas/aulas/treinos sob hipótese alguma;
->- Não deixar o perfil no modo offline sob hipótese alguma;
->- Manter a opção "Visibilidade do Perfil" habilitada para "Todo mundo";
->- Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
+>1- Nunca desobedecer a habbo etiqueta dentro ou fora do batalhão;
+>2- Respeitar todos, sejam subalternos ou superiores;
+>3- Representar a polícia RCC em todos os lugares com elevados padrões;
+>4- Não pedir promoção/direitos/pagamento/gratificação ou para ser avaliado;
+>5- Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
+>6- Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
+>7- Não fugir de rondas/aulas/treinos sob hipótese alguma;
+>8- Não deixar o perfil no modo offline sob hipótese alguma;
+>9- Manter a opção "Visibilidade do Perfil" habilitada para "Todo mundo";
+>10- Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
 >Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
 >Vale ressaltar que caso descumpra as regras estará sujeito a punições.
 >Punições estas que podem ser: advertência verbal, apresentar-armas, rebaixamento,
@@ -81,7 +80,7 @@
 >03 - Quantas e quais são as funções no batalhão da RCC?;;
 >04 - Qual a função de cada um dos operadores?;;
 >05 - Qual a forma correta de abrir as portas de acesso sendo operador e como expulsa sendo OP4?;;
->06 - Quais as duas funções do sentinela? E qual sua função extra dentro do batalhão auxiliar?
+>06 - Quais as duas funções do sentinela?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
@@ -98,7 +97,7 @@
 >03 - Quantas e quais são as funções no batalhão da RCC?;;
 >04 - Qual a função de cada um dos operadores?;;
 >05 - Qual a forma correta de abrir as portas de acesso sendo operador e como expulsa sendo OP4?;;
->06 - Quais as duas funções do sentinela? E como abre a sua porta?
+>06 - Quais as duas funções do sentinela?
 
 #![FINALIZAÇÃO]
 
