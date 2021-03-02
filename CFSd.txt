@@ -140,8 +140,8 @@
 #![NEGRITO]
 
 >
->Já sabem falar em negrito?
->Você está pela versão do jogo mobile, computador versão flash (download) ou computador versão beta?.;;
+>Você sabe utilizar o negrito?
+>Você está pela versão de celular, ou pela versão de computador (navegador ou aplicativo)?.;;
 >Sussurrar [Nick] Caso o recruta não saiba continue daqui.
 >Saia do sussurro antes de continuar a aula.;;
 >?
