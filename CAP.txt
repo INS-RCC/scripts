@@ -1,21 +1,22 @@
 ﻿#![INÍCIO]
->Olá, subtenente. Eu sou o(a) instrutor(a) [Nick]
->Irei aplicar, agora, o Curso de Aperfeiçoamento de Praças [CAP].
+>
+>Olá, subtenente. Eu sou o(a) instrutor(a) RCMJ e irei aplicar o Curso de Aperfeiçoamento de Praças [CAP].
 >Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
->Você sabe como encontrar os documentos da Polícia RCC no fórum?;
+>Você sabe como encontrar os documentos da Polícia RCC no fórum?
 
-#![CASO NÃO SAIBA-PRÓLOGO]
+#![CASO NÃO SAIBA]
 
 >
->Em nossa instituição há documentos que contribuem para que haja ordem e organização.
->Será ensinado a como chegar neles, características e composição.
->É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
->- Primeiro, entre no site policiarcc.²com/forum (sem o ²). (Avise-me ao entrar);
->- Procure por uma área chamada "Setor Judiciário". (Avise-me ao encontrar).
->Nessa área, encontrará os documentos Código de Conduta Militar, Código Penal Militar e
->Diretrizes: Comando do Batalhão.
->- Procure por uma área chamada "Comando de Segurança Institucional". (Avise-me ao encontrar).
+>Em nossa instituição, há documentos que contribuem para que haja ordem e organização.
+>Serão ensinadas suas características e composição. É necessário lembrar que todos os documentos
+>podem ser alterados da mesma forma que foram criados.
+>- Primeiro, entre no site policiarcc.²com/forum (sem o ²). (Avise-me ao entrar);;;
+>- Procure por uma área chamada "Setor Judiciário". (Avise-me ao encontrar).;;
+>Nessa área, encontrará os documentos Código de Conduta Militar, Código Penal Militar
+>e Diretrizes: Comando do Batalhão.
+>- Procure por uma área chamada "Comando de Segurança Institucional". (Avise-me ao encontrar).;;
 >Nessa área encontrará o Plano de Controle Emergencial e Anexos.
+>Sussurrar [Nick] Continue a partir do tópico Código de Conduta Militar.
 
 #![CASO SAIBA]
 
@@ -23,6 +24,7 @@
 >Em nossa instituição há documentos que contribuem para que haja ordem e organização.
 >Será ensinado suas características e composição.
 >É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
+>Sussurrar [Nick] Continue a partir do tópico Código de Conduta Militar.
 
 #![CÓDIGO DE CONDUTA MILITAR]
 
@@ -32,8 +34,7 @@
 >O Código de Conduta Militar está dividido em 2 partes e 4 anexos, sendo eles:
 >- Código de Conduta Militar: Disposições Gerais;
 >- Código de Conduta Militar: Disposições Complementares.
->- Anexo I - Uniforme e Acessórios;
->- Anexo II - Modelo de Missões;
+>- Anexo I - Uniforme e Acessórios; // - Anexo II - Modelo de Missões;
 >- Anexo III - Política de Baixa e Reintegração;
 >- Anexo IV - Normas para promoções, rebaixamentos e advertências.
 >É importante o estudo desses tópicos citados para possuir uma boa noção da constituição militar.
@@ -44,21 +45,19 @@
 >O Código Penal Militar [CPM] é o principal documento com relação às penalidades na RCC.
 >Esse código é importantíssimo para entender como, quando e quais são as punições existentes.
 >O Código Penal Militar está dividido em uma parte e dois anexos, sendo eles:
->- Código Penal Militar;
->- Anexo I – Punições;
->- Anexo II - Política de exoneração.
+>1) Código Penal Militar; // 2) Anexo I – Punições; // 3) Anexo II - Política de exoneração.
 
 #![PLANO DE CONTROLE EMERGENCIAL]
 
 >
->Plano de Controle Emergencial [PCE] é de suma importância para o saber
->do que fazer em situações adversas à segurança do batalhão.
+>Plano de Controle Emergencial [PCE] é de suma importância para o
+>saber do que fazer em situações adversas à segurança do batalhão.
 >Você usará o PCE quando for Oficial da Guarda e acontecer uma emergência ou acidente.
 >O Plano de Controle Emergencial está dividido em duas partes, sendo elas:
->- Plano de Controle Emergencial.
->- Anexo I - Manual de Utilização do Chooser.
+>1) Plano de Controle Emergencial; // 2) Anexo I - Manual de Utilização do Chooser.
 >Além do PCE, o documento "Manual: Comando do Batalhão" também é de extrema importância fazer a
 >leitura deste documento antes de se assumir o posto de Oficial da Guarda.
+
 
 #![REGIMENTOS INTERNOS]
 
