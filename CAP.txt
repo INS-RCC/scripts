@@ -1,4 +1,4 @@
-﻿#![INÍCIO]oi
+﻿#![INÍCIO]
 >
 >Olá, subtenente. Eu sou o(a) instrutor(a) RCMJ e irei aplicar o Curso de Aperfeiçoamento de Praças [CAP].
 >Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
