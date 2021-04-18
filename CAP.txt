@@ -1,6 +1,6 @@
 ﻿#![INÍCIO]
 >
->Olá, subtenente. Eu sou o(a) instrutor(a) RCMJ e irei aplicar o Curso de Aperfeiçoamento de Praças [CAP].
+>Olá. Eu sou o(a) instrutor(a) [Nic] e irei aplicar o Curso de Aperfeiçoamento de Praças.
 >Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
 >Você sabe como encontrar os documentos da Polícia RCC no fórum?
 
@@ -10,11 +10,11 @@
 >Em nossa instituição, há documentos que contribuem para que haja ordem e organização.
 >Serão ensinadas suas características e composição. É necessário lembrar que todos os documentos
 >podem ser alterados da mesma forma que foram criados.
->- Primeiro, entre no site policiarcc.²com/forum (sem o ²). (Avise-me ao entrar);;;
->- Procure por uma área chamada "Setor Judiciário". (Avise-me ao encontrar).;;
+>- Primeiro, entre no site policiarcc.²com/forum (sem o ²). (Avise-me ao entrar);
+>- Procure por uma área chamada "Setor Judiciário". (Avise-me ao encontrar).
 >Nessa área, encontrará os documentos Código de Conduta Militar, Código Penal Militar
 >e Diretrizes: Comando do Batalhão.
->- Procure por uma área chamada "Comando de Segurança Institucional". (Avise-me ao encontrar).;;
+>- Procure por uma área chamada "Comando de Segurança Institucional". (Avise-me ao encontrar).
 >Nessa área encontrará o Plano de Controle Emergencial e Anexos.
 >Sussurrar [Nick] Continue a partir do tópico Código de Conduta Militar.
 
@@ -24,7 +24,6 @@
 >Em nossa instituição há documentos que contribuem para que haja ordem e organização.
 >Será ensinado suas características e composição.
 >É necessário lembrar que todos os documentos podem ser alterados da mesma forma que foram criados.
->Sussurrar [Nick] Continue a partir do tópico Código de Conduta Militar.
 
 #![CÓDIGO DE CONDUTA MILITAR]
 
@@ -35,7 +34,7 @@
 >- Código de Conduta Militar: Disposições Gerais;
 >- Código de Conduta Militar: Disposições Complementares.
 >- Anexo I - Uniforme e Acessórios; // - Anexo II - Modelo de Missões;
->- Anexo III - Política de Baixa e Reintegração;
+>- Anexo III - Política de Baixa, Aposentadoria e Reintegração;
 >- Anexo IV - Normas para promoções, rebaixamentos e advertências.
 >É importante o estudo desses tópicos citados para possuir uma boa noção da constituição militar.
 
@@ -58,13 +57,11 @@
 >Além do PCE, o documento "Manual: Comando do Batalhão" também é de extrema importância fazer a
 >leitura deste documento antes de se assumir o posto de Oficial da Guarda.
 
-
 #![REGIMENTOS INTERNOS]
 
 >
 >O Regimento Interno é o documento mais importante das companhias e subcompanhias, porque nele é
->contido penalidades, regras e instruções. Normalmente ele é encontrado na seção de documentos da
->companhia ou subcompanhia.
+>contido penalidades, regras e instruções.
 >Alguma dúvida?
 
 #![TESTE DE CONDUTA - SOMENTE UM SUBTENENTE]

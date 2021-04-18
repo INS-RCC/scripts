@@ -13,22 +13,24 @@
 
 >
 >Na RCC, nós temos uma relação entre superiores e entre inferiores/pares, sendo que:
->A forma correta de se dirigir a um inferior/par é: [Patente/Cargo] + [Nic.k].
->A forma correta de se dirigir a um superior hierárquico é: Senhor(a) + [Patente/Cargo] + [Nic.k].
+>A forma correta de se dirigir a um SUBALTERNO(inferior)/PAR é: [Patente/Cargo] + [Nickname].
+>A forma correta de se dirigir a um SUPERIOR hierárquico é: Senhor(a) + [Patente/Cargo] + [Nickname].
 >Sussurrar [Nick] A partir de agora cobre o pronome "senhor(a)" do recruta, caso ele não o use 
 >corretamente. Saia do sussurro antes de continuar a aula.;;
->Para o alistamento, é obrigatório que o civil porte três requisitos: Missão, farda e grupo.
->A missão do civil deverá estar toda em branco, com o espaço completamente vazio.
+>Para o alistamento, é obrigatório que o civil porte três requisitos: MISSÃO, FARDA e GRUPO.
+>A MISSÃO do civil deverá estar toda em BRANCO, com o espaço completamente VAZIO.
 >A farda do recruta deverá ser toda preta (HC ou não HC). O civil não poderá entrar com boina,
 >acessórios, barba ou rosto com barba, número nas costas, e o balão de fala deve ser da cor branca.
->O recruta deve possuir o grupo da "Polícia RCC".>É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
->Também é proibido a entrada de recrutas/policiais com grupos que vão contra a Habbo Etiqueta.
+>O recruta deve possuir o grupo da "Polícia RCC", os donos são os senhores supremos e RCCEmblemas.
+>É proibida a entrada de recruta/policial com grupo de outra organização militar/polícia.
+>Também é proibida a entrada de recrutas/policiais com grupos que vão contra a Habbo Etiqueta.
 >Se algum recruta/policial fazer parte de algum grupo proibido, peça ao mesmo que se retire dele(s).
 >Ao avistar um superior na recepção, você tem o dever de assumi-lo na função. Para identificar a
 >patente/cargo de um militar e descobrir se é seu superior, confira sua missão, fardamento e grupo.
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
 >Caso precise sair ou pedir ajuda, acene que um policial com balão de fala vermelho irá te ajudar.
 >Alguma dúvida?
+
 
 #![TESTE TEÓRICO - UM SOLDADO]
 
