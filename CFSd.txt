@@ -128,7 +128,8 @@
 >2. Continência: Nesse comando você deverá acenar uma única vez. Dica: Envie "o/".
 >Continência!;;
 >3. Apresentar armas: Nesse comando você deverá acenar sem parar,
->devendo parar somente quando for dado o comando sentido. Dica: Enviei "o/" a cada 3 segundos.>Apresentar armas!;;
+>devendo parar somente quando for dado o comando sentido. Dica: Enviei "o/" a cada 3 segundos.
+>Apresentar armas!;;
 >4. Marcar passos: Nesse comando você deverá dançar hap-hop sem sair do local.
 >Poderá parar quando for dado "sentido" novamente. Clique em parar de dançar para parar.
 >Marcar passos!;;
