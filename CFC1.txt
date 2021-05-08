@@ -1,4 +1,4 @@
-﻿#![INÍCIOoooo]
+﻿#![INÍCIO] oi
 
 >
 >Olá, sou o(a) instrutor(a) [Nick] e irei lhe aplicar o Curso de Formação de Cabos, parte 01.
