@@ -117,8 +117,8 @@
 >marcar passos, silêncio, à vontade, apresente-se e dispensado.
 >Sem contar com o apresente-se e o dispensado, você sabe executar os demais comandos da RCC?
 >Sussurrar [Nick] Caso o recruta diga que CONHECE TODOS, pratique os comandos. Caso ele diga
->que NÃO OU ALGUNS, está terminantemente PROIBIDO pular essa parte.
->PRATIQUE CADA COMANDO LOGO APÓS EXPLICÁ-LO, ANTES DE PROSSEGUIR AO PRÓXIMO.
+>que NÃO OU ALGUNS, está terminantemente PROIBIDO pular essa parte. PRATIQUE CADA COMANDO
+>LOGO APÓS EXPLICÁ-LO, ANTES DE PROSSEGUIR AO PRÓXIMO. 
 >Saia do sussurro antes de continuar a aula.;;
 >1. Sentido: Nesse comando você deverá dar um passo à frente.
 >Enquanto estiver no comando sentido, permaneça em silêncio, reto e imóvel.
@@ -141,42 +141,46 @@
 
 >
 >Já sabe falar em negrito?
->Você está pela versão de celular, ou pela versão de computador (navegador ou aplicativo)?.;;
 >Sussurrar [Nick] Caso o recruta não saiba continue daqui.
 >Saia do sussurro antes de continuar a aula.;;
+>Você está pela versão de celular, ou pela versão de computador (navegador ou aplicativo)?.;;
 >?
 
 #![CASO NÃO SAIBA - PC]
 
 >
->Digite "Teste" e pressione o shift juntamente com o enter para enviar..;;
->Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC.
+>Digite "Teste" e pressione o shift juntamente com o enter para enviar.
+>Sussurrar [Nick] Caso ele esteja na versão beta, explique que não há negrito.
+>Saia do sussurro antes de continuar a aula.;;
+>Muito bem, sempre utilize o negrito dentro das dependências da instituição.
 
 #![CASO NÃO SAIBA - CELULAR/TABLET]
 
 >
 >No local da fala e clique no lado esquerdo. Feito isso, onde tem escrito "fale", troque por "Gritar".;;
->Isso, muito bem! Utilize suas falas em negrito sempre que estiver na RCC. 
+>Muito bem, sempre utilize o negrito dentro das dependências da instituição.
 
 #![FINALIZAÇÃO]
 
 >
->Meus parabéns, você foi aprovado no Curso de Formação de Soldados.
->Coloque uma boina preta e vista a farda do manequim logo atrás.
->Sussurrar [Nick] Espere o recruta colocar sua farda para enviar a próxima mensagem.
->Saia do sussurro antes de continuar a aula.;; 
+>Meus parabéns, você foi aprovado(a) no Curso de Formação de Soldados. Coloque uma boina preta.
+>Sussurrar [Nick] Espere o recruta colocar a sua boina para enviar a próxima mensagem. Caso 
+>esteja no batalhão auxiliar, peça-o para vestir o manequim, se não, aguarde até o corredor.
+>Saia do sussurro antes de continuar a aula.;;
 >Com exceção do cinto com pistola, os demais acessórios só são permitidos a partir de sargento.
 >Escreva em sua missão: [RCC] Soldado [TAG]
 >Sussurrar [Nick] Caso o soldado não saiba mudar a missão, ensine-o.
 >No aulador tem tópicos ensinando como faz. Saia do sussurro antes de continuar a aula.;;
->A seguir, você deverá fazer a Supervisão, com um policial de estrela verde (SUP), e o
->Curso de Aprimoramento de Soldados, com um policial de estrela vermelha (TRE).
+>A seguir, você deverá fazer a Supervisão (SUP), com um policial de estrela verde (Supervisor)
+>e o Curso de Aprimoramento de Soldados (CAS), com um policial de estrela vermelha (Treinador).
 >Quando você quiser voltar a RCC após ter saído do jogo, procure em seu navegador de quartos por: RCC
 >Os quartos de nossa polícia irão aparecer e basta você clicar no batalhão que estiver aberto.
 >Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.
 >Alguma dúvida?;;
 >Aguarde, irei postar a instrução.
->Sussurrar [Nick] É de suma importância que poste todas suas instruções.
+>Sussurrar [Nick] Caso o soldado tenha tido dificuldade em colocar a farda, aguarde até 
+>levá-lo ao corredor para completar o fardamento.
+>É de suma importância que poste todas suas instruções.
 >Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
 >Certifique-se de que os nicks estejam corretos.
 >Lembre-se de sair do sussurro antes de continuar a aula.
@@ -184,8 +188,8 @@
 #![MUDAR MISSÃO - PC/NOTEBOOK}
 
 >
->Aperte em seu avatar;
->Abaixo do seu avatar, tem uma barra cinza escrito: "Mude sua missão..." (Clique 2x para alterar)
+>Abra o seu perfil;
+>Abaixo do seu nick, tem um lápis clique nele para colocar a sua missão;
 >Essa é sua missão, agora anote nela: [RCC] Soldado [TAG]
 
 
@@ -193,5 +197,5 @@
 
 >
 >Aperte na imagem do rosto do seu avatar e clique em "Meu Perfil";
->Em seguida, aperte onde está escrito "Mudar sua missão". (Clique no ícone do lápis)
+>Em seguida, aperte onde tem um lápis do lado direito, clique nele.
 >Essa é sua missão, agora anote nela: [RCC] Soldado [TAG]

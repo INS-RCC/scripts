@@ -41,35 +41,45 @@
 >Saia do sussurro antes de continuar a aula.;;
 
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Como você deve se dirigir a SUBALTERNOS e PARES de patente/cargo?;;
+>2) Como você deve se dirigir a SUBALTERNOS (INFERIORES) e PARES de patente/cargo?;;
 >3) Como você deve se dirigir a SUPERIORES de patente/cargo?;;
 >4) Como deve estar a missão de um recruta?;;
->5) Qual é a forma correta de assumir um superior na recepção?;;
+>5) Qual é a forma correta de assumir um superior na recepção?
 
 #![TESTE TEÓRICO - MAIS DE UM SOLDADO - PRIMEIRA PARTE]
 
 >
 >Vocês conseguem sussurrar comigo?
->Está jogando pelo computador ou pelo celular?
+>Sussurrar [Nick] Caso a resposta seja não, continue. Saia do sussurro antes de voltar pra aula.;;
+>Vocês estão jogando pelo computador (aplicativo ou navegador) ou pelo celular?
 
-#![TESTE TEÓRICO - COMPUTADOR]
+#![TESTE TEÓRICO - COMPUTADOR - APLICATIVO]
 
 >
->Cliquem em mim e apertem em "Sussurro". Feito isso, enviem-me uma mensagem.
+>Cliquem no meu avatar, e em seguida em "Sussurrar". Feito isso, enviem-me uma mensagem.
 >Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.
 >Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 >Sussurrar [Nick] Caso os recrutas não consigam sussurrar, siga daqui:
 >Saia do sussurro antes de voltar pra aula.;;
 >Certo, aguarde-me que irei reentrar no quarto.
 
+#![TESTE TEÓRICO - COMPUTADOR - NAVEGADOR]
+
+>
+>Pressione a tecla "Alt"  ou "Alt Gr"  e clique no meu avatar. Após isso, aperte em "Sussurrar".
+>Sussurrar [Nick] Caso os recrutas consigam sussurrar continue daqui.
+>Saia do sussurro antes de voltar pra aula.;;
+>Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
+
+
 #![TESTE TEÓRICO - CELULAR]
 
 >
 >Segure o dedo em mim e apertem em "Sussurrar". Feito isso, enviem-me uma mensagem.
->Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 >Sussurrar [Nick] Caso não consiga selecionar seu personagem, siga daqui.
 >Lembre-se de sair do sussurro antes de continuar a aula.;;
 >Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".
+>Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 
 #![TESTE TEÓRICO - PARTE FINAL]
 
@@ -87,8 +97,8 @@
 #![AOS REPROVADOS NO TESTE TEÓRICO]
 
 >
->Lamento, você está reprovado(a). Mas não desista, retorne ao batalhão e
->aliste-se novamente. Confio no seu potencial e sei que é capaz de ser aprovado(a).
+>Lamento, você está reprovado(a). Mas não desista, retorne ao batalhão e aliste-se novamente.
+>Confio no seu potencial e sei que é capaz de ser aprovado(a).
 
 #![OPCIONAL - SALAS 01 e 04]
 
@@ -178,9 +188,7 @@
 >Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.
 >Alguma dúvida?;;
 >Aguarde, irei postar a instrução.
->Sussurrar [Nick] Caso o soldado tenha tido dificuldade em colocar a farda, aguarde até 
->levá-lo ao corredor para completar o fardamento.
->É de suma importância que poste todas suas instruções.
+>Sussurrar [Nick] É de suma importância que poste todas suas instruções.
 >Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.
 >Certifique-se de que os nicks estejam corretos.
 >Lembre-se de sair do sussurro antes de continuar a aula.

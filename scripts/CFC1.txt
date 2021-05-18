@@ -40,7 +40,7 @@
 >Existem 6 funções no batalhão as quais poderá assumir ao longo da sua carreira, sendo elas:
 >Recepção, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
 >Operadores (OP) - Encontra-se na sala de controle, onde estão as alavancas e os rollers no batalhão.
->Tem função de facilitar a entrada de policiais ao batalhão e, por segurança, são divididos em 4:
+>Tem função de liberar a entrada de policiais ao batalhão e, por segurança, são divididos em 4:
 >OP1: confere a farda, missão e o grupo que o policial usa naquele momento.
 >OP2: confere o perfil/visibilidade do perfil, se não há número nas costas
 >e se o balão de fala está branco.
@@ -52,22 +52,33 @@
 >ficará responsável pela função que originalmente seria do Operador 3.
 >Para abrir as portas dos OP1, OP2, OP3 ou OP4, digite: porta1, porta2, porta3 e porta4.
 >Para kikar o recruta, digite: Pk. Vale lembrar que o comando "Pk" só funciona no OP4.
+>Também existe o comando "desviar" que pode ser usado quando algum policial estiver dificultando o trânsito.
+>O OP1 tem a liberdade de expulsar o militar que estiver na entrada da sala de controle com o comando "desviarsc".
+>O OP2 tem consegue dividir com o OP4 verificar quem estiver atrasando. Para isso, deve-se utilizar os comandos
+>relacionados ao roller que o policial estiver respectivamente, sendo eles: desviar1 / desviar2 / desviar3.
+>Então, para desviar um policial do segundo roller do OP2, deve ser utilizado o "desviar2".
+>O OP3 tem a liberdade de "jogar" os policiais para fora da sala de controle com o comando "desviarsc".
+>Para o OP4, também há a função de liberar a entrada dos militares que foram mandados do OP2
+>por meio do comando "porta5" e a função de "jogar" para fora o militar digitando "desviarsc".
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
 >Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
 >Sentinela - É o policial que dá uma pré-aula aos Recrutas na área de recrutas.
 >Ele deve ensinar os Recrutas acerca da história da RCC, formas de tratamento e comandos.
+>Também tem como funções abrir a porta para o Corredor dos INS e alertar ao Instrutor próximo
+>quando completar 3 recrutas presentes ou 10 minutos de pré-aula.
 >É necessário o uso da cor cinza no balão de fala.
->Também tem como função abrir a porta para o Corredor dos INS.
->Para abrir a porta digite porta5.
+>Para abrir a porta de acesso ao Corredor dos INS digite porta5.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
+>No Batalhão Auxiliar ele também é o responsável pela função de Operador 4 e a liberação para
+>o instrutor aplicar aula torna-se é de 5 minutos na sentinela ou 2 recrutas.
 >Alguma dúvida sobre o conteúdo passado?
 
 #![OPCIONAL - PRATICA NA SALA DE CFC]
 
 >
 >Irei realizar uma prática agora para avaliar se você prestou atenção na aula.
->Sussurrar [Nick] Peça que o cabo indique no quarto de CFC onde fica cada função explicada
->em aula. As funções explicadas em aulas são: sentinela, operadores e
+>Sussurrar [Nick] Peça que o cabo indique no quarto de CFC onde fica cada função explicada em aula.
+>As funções explicadas em aulas são: sentinela, operadores e
 >auxiliar operacional. Saia do sussurro antes de continuar a aula.
 
 #![TESTE DE CONDUTA - SOMENTE UM CABO]
@@ -82,7 +93,7 @@
 >04 - Qual a função de cada um dos operadores?;;
 >05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
 >06 - Quais as duas funções do sentinela?
->07 - Qual a forma correta de abrir a porta de acesso para o corredor dos Instrutores sendo sentinela?
+>07- Qual a forma correta de abrir a porta de acesso para o corredor dos Instrutores sendo sentinela?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 

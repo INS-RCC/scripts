@@ -1,10 +1,19 @@
 ﻿#![INÍCIO]
 >
->Olá. Eu sou o(a) instrutor(a) [Nic] e irei aplicar o Curso de Aperfeiçoamento de Praças.
+>Olá. Eu sou o(a) instrutor(a) [Nick] e irei aplicar o Curso de Aperfeiçoamento de Praças.
 >Neste curso, iremos aprofundar os seus conhecimentos quanto aos documentos da RCC.
->Você sabe como encontrar os documentos da Polícia RCC no fórum?
+>Você prefere o método clássico (script enviado aqui) ou a opção mais prática via slide?
+>Sussurrar [Nick] Escolha entre o metódo clássico e slide.
+>Saia do sussurro pra continuar a aula.
 
-#![CASO NÃO SAIBA]
+#![METÓDO CLÁSSICO - AMBOS]
+
+>
+>Você sabe como encontrar os documentos da Polícia RCC no fórum?
+>Sussurrar [Nick] Escolha o próximo tópico conforme a resposta do subtenente.
+>Saia do sussurro antes de voltar pra aula.
+
+#![METÓDO CLÁSSICO - CASO NÃO SAIBA]
 
 >
 >Em nossa instituição, há documentos que contribuem para que haja ordem e organização.
@@ -18,7 +27,7 @@
 >Nessa área encontrará o Plano de Controle Emergencial e Anexos.
 >Sussurrar [Nick] Continue a partir do tópico Código de Conduta Militar.
 
-#![CASO SAIBA]
+#![METÓDO CLÁSSICO - CASO SAIBA]
 
 >
 >Em nossa instituição há documentos que contribuem para que haja ordem e organização.
@@ -30,12 +39,12 @@
 >
 >O Código de Conduta Militar [CCM] é um dos principais documentos da nossa instituição, por abordar
 >um conjunto de informações que representam o que é necessário para o funcionamento da Polícia RCC.
->O Código de Conduta Militar está dividido em 2 partes e 4 anexos, sendo eles:
+>O Código de Conduta Militar está dividido em 2 partes e 3 anexos, sendo eles:
 >- Código de Conduta Militar: Disposições Gerais;
 >- Código de Conduta Militar: Disposições Complementares.
->- Anexo I - Uniforme e Acessórios; // - Anexo II - Modelo de Missões;
->- Anexo III - Política de Baixa, Aposentadoria e Reintegração;
->- Anexo IV - Normas para promoções, rebaixamentos e advertências.
+>- Anexo I: Normas para emblemas, missões e fardas;
+>Anexo II: Política de Baixa, Aposentadoria e Reintegração;
+>- Anexo III: Normas para promoções, rebaixamentos e advertências.
 >É importante o estudo desses tópicos citados para possuir uma boa noção da constituição militar.
 
 #![CÓDIGO PENAL MILITAR]
@@ -64,11 +73,21 @@
 >contido penalidades, regras e instruções.
 >Alguma dúvida?
 
+#![METÓDO VIA SLIDE]
+
+>
+>Acesse o seguinte link: bit*ly/cap-ins (troque "*" por "."), avise-me ao acessar.
+>Siga as instruções dele sempre que ele mandar retornar até aqui.
+>Se tiver qualquer dúvida, retorne e diga.
+>Evite dormir. Caso fique +4 minutos ausente, envie um balão de fala branco. Pode começar a leitura.
+>Alguma dúvida diante de todo o conteúdo que foi passado pelo slide?
+
 #![TESTE DE CONDUTA - SOMENTE UM SUBTENENTE]
 
 >
 >Agora irei fazer algumas perguntas relacionadas a aula. Caso erre uma questão, será reprovado(a).
 >Sussurrar [Nick] Caso o subtenente cometa um erro, deverá ser reprovado imediatamente.
+>Caso tenha outros, aguarde o reprovado retirar-se para dar continuidade.
 >Saia do sussurro antes de continuar a aula.;;
 
 >1 - Qual a importância do Código Penal Militar para a nossa instituição?;;
@@ -85,6 +104,7 @@
 >Todas as respostas deverão ser enviadas via sussurro.
 >Agora irei fazer algumas perguntas relacionadas a aula. Caso erre uma questão, será reprovado(a).
 >Sussurrar [Nick] Caso o subtenente cometa um erro, deverá ser reprovado imediatamente.
+>Caso tenha outros, aguarde o reprovado retirar-se para dar continuidade.
 >Saia do sussurro antes de continuar a aula.;;
 
 >1 - Qual a importância do Código Penal Militar para a nossa instituição?;;
@@ -97,7 +117,7 @@
 #![FINALIZAÇÃO]
 
 >
->Parabéns, você foi aprovado no Curso de Aperfeiçoamento de Praças!
+>Parabéns, você foi aprovado(a) no Curso de Aperfeiçoamento de Praças!
 >Acrescente após a TAG de quem o promoveu a seguinte abreviatura: [CAP].
 >Sussurrar [Nick] Espere o militar realizar o procedimento para seguir o script.
 >Saia do sussurro antes de continuar a aula.;;
@@ -113,4 +133,4 @@
 
 >
 >Lamento, você está reprovado(a). Mas não desista, retorne ao batalhão, procure outro instrutor e
->faça novamente seu curso. Confio no seu potencial e sei que é capaz de aprovar.
+>faça novamente seu curso. Confio no seu potencial e sei que é capaz de ser aprovado(a).
