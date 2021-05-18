@@ -6,7 +6,7 @@
 >Sussurrar [Nick] Escolha entre o metódo clássico e slide.
 >Saia do sussurro pra continuar a aula.
 
-#![METÓDO CLÁSSICO - AMBOS]
+#![METÓDO CLÁSSICO - INICIO]
 
 >
 >Você sabe como encontrar os documentos da Polícia RCC no fórum?
