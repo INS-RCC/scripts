@@ -16,7 +16,7 @@
 >
 >Como sabe, na RCC existem várias regras, você deve seguir todas, como:
 >1. Nunca desobedecer a habbo etiqueta dentro ou fora do batalhão;
->2. Respeitar todos, sejam subalternos ou superiores;
+>2. Respeitar todos, sejam civis, subalternos ou superiores;
 >3. Representar a polícia RCC em todos os lugares com elevados padrões;
 >4. Não pedir promoção/direitos/pagamento/gratificação ou para ser avaliado;
 >5. Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
@@ -25,6 +25,7 @@
 >8. Não fugir de rondas/aulas/treinos sob hipótese alguma;
 >9. Manter a opção "Visibilidade do Perfil" habilitada para "Todo mundo";
 >10. Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
+>11. É expressamente proibido a utilização de fakes ou identidade dupla na instituição.
 >Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
 >Vale ressaltar que caso descumpra as regras estará sujeito a punições.
 >Punições estas que podem ser: advertência verbal, apresentar-armas, rebaixamento,
@@ -55,12 +56,14 @@
 >algum policial estiver parando o transito na sala de controle.
 >Agora irei passar as circunstâncias em que esse comando pode ser ativo:
 >OP1: Tem a liberdade de expulsar o militar que estiver na entrada da sala de controle com o comando "desviarsc".
->OP2 e OP4 Em conjunto, os dois podem verificar quem está travando o transito;
->Para isso, deve-se utilizar os comandos relacionados ao roller que o policial estiver
->respectivamente, sendo eles: desviar1 / desviar2 / desviar3.
->O OP4 também pode liberar os militares mandados do OP2 por meio do comando "porta5"
->e a função de "jogar" para fora o militar digitando "desviarsc"
->OP3 tem a liberdade de "jogar" os policiais para fora da sala de controle com o comando "desviarsc".
+>OP2: Tem a liberdade de "enviar" o militar que está travando o andamento da sala de controle, usando o comando
+>respectivo ao roller em que o militar está inativo, sendo eles: desviar1 / desviar2 / desviar3. Como pode observar,
+>existem 3 rollers entre o OP1 e OP2, os comandos antes apresentados equivalem a cada roller.
+>OP3: Tem a liberdade de "jogar" os policiais para fora da sala de controle usando o comando "desviarsc".
+>Será utilizado quando o militar não constar no System.
+>OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers feitos para os militares desviados,
+>onde, se o militar retornar, verifique-o e libere-o para batalhão utilizando o comando "porta5", se ele continuar
+>inativo, utilize o comando "desviarsc" para manda-lo de volta para o saguão.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
 >Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
 >O Auxiliar Operacional pode utilizar todos os comandos da Sala de Controle.
@@ -109,7 +112,7 @@
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Qual a data simbólica da fundação da RCC? E quais seus dois objetivos?;;
 >02 - Cite duas regras básicas da RCC.;;
->03 - Quantas e quais são as funções no batalhão da RCC?;;
+>03 - Quantas e quais são as funções no batalhão da RCC? (Sem abreviar ou usar siglas);;
 >04 - Qual a função de cada um dos operadores?;;
 >05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
 >06 - Quais as duas funções do sentinela?

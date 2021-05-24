@@ -57,11 +57,11 @@
 
 >
 >Cliquem no meu avatar, e em seguida em "Sussurrar". Feito isso, enviem-me uma mensagem.
->Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.
->Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
->Sussurrar [Nick] Caso os recrutas não consigam sussurrar, siga daqui:
+>Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.;;
+>Sussurrar [Nick] Caso os recrutas não consigam sussurrar continue daqui:
 >Saia do sussurro antes de voltar pra aula.;;
->Certo, aguarde-me que irei reentrar no quarto.
+>Certo, aguarde-me que irei reentrar no quarto.;;
+>Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 
 #![TESTE TEÓRICO - COMPUTADOR - NAVEGADOR]
 
@@ -78,7 +78,7 @@
 >Segure o dedo em mim e apertem em "Sussurrar". Feito isso, enviem-me uma mensagem.
 >Sussurrar [Nick] Caso não consiga selecionar seu personagem, siga daqui.
 >Lembre-se de sair do sussurro antes de continuar a aula.;;
->Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".
+>Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".;;
 >Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 
 #![TESTE TEÓRICO - PARTE FINAL]
@@ -89,9 +89,9 @@
 >continuidade. Saia do sussurro antes de continuar aula.;;
 
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
->2) Como você deve se dirigir a SUBALTERNOS e PARES de patente/cargo?;;
+>2) Como você deve se dirigir a SUBALTERNOS (INFERIORES) e PARES de patente/cargo?;;
 >3) Como você deve se dirigir a SUPERIORES de patente/cargo?;;
->4) Como deve ser a missão de um recruta?;;
+>4) Como deve estar a missão de um recruta?;;
 >5) Qual é a forma correta de assumir um superior na recepção?
 
 #![AOS REPROVADOS NO TESTE TEÓRICO]
@@ -153,7 +153,7 @@
 >Já sabe falar em negrito?
 >Sussurrar [Nick] Caso o recruta não saiba continue daqui.
 >Saia do sussurro antes de continuar a aula.;;
->Você está pela versão de celular, ou pela versão de computador (navegador ou aplicativo)?.;;
+>Vocês estão jogando pelo computador (aplicativo ou navegador) ou pelo celular?;;
 >?
 
 #![CASO NÃO SAIBA - PC]
@@ -185,7 +185,6 @@
 >e o Curso de Aprimoramento de Soldados (CAS), com um policial de estrela vermelha (Treinador).
 >Quando você quiser voltar a RCC após ter saído do jogo, procure em seu navegador de quartos por: RCC
 >Os quartos de nossa polícia irão aparecer e basta você clicar no batalhão que estiver aberto.
->Lembre-se que presença no batalhão é essencial para sua carreira militar e para ser promovido.
 >Alguma dúvida?;;
 >Aguarde, irei postar a instrução.
 >Sussurrar [Nick] É de suma importância que poste todas suas instruções.
