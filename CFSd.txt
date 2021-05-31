@@ -5,6 +5,7 @@
 >Seja bem-vindo(a) à RCC! Permaneça em silêncio e preste atenção ao conteúdo repassado na instrução.
 >Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
 >Entendido, recruta?;;
+>Você joga pelo computador (aplicativo ou navegador) ou celular?
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família.
 >A RCC foi fundada em 2007, pelo habbo nabas201 e, atualmente,
 >nossos supremos são os senhores: -Edhone e Dean.Santos (Eles são autoridade máxima.)
@@ -50,15 +51,15 @@
 
 >
 >Vocês conseguem sussurrar comigo?
->Sussurrar [Nick] Caso a resposta seja não, continue. Saia do sussurro antes de voltar pra aula.;;
->Vocês estão jogando pelo computador (aplicativo ou navegador) ou pelo celular?
+>Sussurrar [Nick] Caso a resposta seja não, escolha o tópico da plataforma que a
+>Pessoa está jogando no momento. Saia do sussurro antes de voltar pra aula.;;
 
 #![TESTE TEÓRICO - COMPUTADOR - APLICATIVO]
 
 >
 >Cliquem no meu avatar, e em seguida em "Sussurrar". Feito isso, enviem-me uma mensagem.
->Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.;;
->Sussurrar [Nick] Caso os recrutas não consigam sussurrar continue daqui:
+>Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.
+>Sussurrar [Nick] Caso os recrutas não consigam sussurrar reentre no quarto.
 >Saia do sussurro antes de voltar pra aula.;;
 >Certo, aguarde-me que irei reentrar no quarto.;;
 >Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
@@ -67,7 +68,7 @@
 
 >
 >Pressione a tecla "Alt"  ou "Alt Gr"  e clique no meu avatar. Após isso, aperte em "Sussurrar".
->Sussurrar [Nick] Caso os recrutas consigam sussurrar continue daqui.
+>Sussurrar [Nick] Caso os recrutas consigam sussurrar continue.
 >Saia do sussurro antes de voltar pra aula.;;
 >Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 
@@ -151,10 +152,8 @@
 
 >
 >Já sabe falar em negrito?
->Sussurrar [Nick] Caso o recruta não saiba continue daqui.
->Saia do sussurro antes de continuar a aula.;;
->Vocês estão jogando pelo computador (aplicativo ou navegador) ou pelo celular?;;
->?
+>Sussurrar [Nick] Caso o recruta não saiba escolha o tópico condizente.
+>Saia do sussurro antes de voltar pra aula.
 
 #![CASO NÃO SAIBA - PC]
 

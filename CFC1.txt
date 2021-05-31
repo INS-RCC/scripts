@@ -24,8 +24,8 @@
 >7. Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
 >8. Não fugir de rondas/aulas/treinos sob hipótese alguma;
 >9. Manter a opção "Visibilidade do Perfil" habilitada para "Todo mundo";
->10. Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
->11. É expressamente proibido a utilização de fakes ou identidade dupla na instituição.
+>10. É expressamente proibido a utilização de fakes ou identidade dupla na instituição.
+>11. Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
 >Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
 >Vale ressaltar que caso descumpra as regras estará sujeito a punições.
 >Punições estas que podem ser: advertência verbal, apresentar-armas, rebaixamento,
@@ -56,13 +56,16 @@
 >algum policial estiver parando o transito na sala de controle.
 >Agora irei passar as circunstâncias em que esse comando pode ser ativo:
 >OP1: Tem a liberdade de expulsar o militar que estiver na entrada da sala de controle com o comando "desviarsc".
->OP2: Tem a liberdade de "enviar" o militar que está travando o andamento da sala de controle, usando o comando
->respectivo ao roller em que o militar está inativo, sendo eles: desviar1 / desviar2 / desviar3. Como pode observar,
->existem 3 rollers entre o OP1 e OP2, os comandos antes apresentados equivalem a cada roller.
->OP3: Tem a liberdade de "jogar" os policiais para fora da sala de controle usando o comando "desviarsc".
+>OP2: Pode "enviar" o militar que está travando o andamento da sala de controle,
+>usando o comando respectivo ao roller em que o militar está inativo,
+>sendo eles: desviar1 / desviar2 / desviar3.
+>Como pode observar, existem 3 rollers entre o OP1 e OP2, os comandos antes
+>apresentados equivalem a cada roller.
+>OP3: Pode "jogar" os policiais para fora da sala de controle usando o comando "desviarsc".
 >Será utilizado quando o militar não constar no System.
->OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers feitos para os militares desviados,
->onde, se o militar retornar, verifique-o e libere-o para batalhão utilizando o comando "porta5", se ele continuar
+>OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers
+>feitos para os militares desviados, onde, se o militar retornar, verifique-o
+>e libere-o para batalhão utilizando o comando "porta5", se ele continuar
 >inativo, utilize o comando "desviarsc" para manda-lo de volta para o saguão.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
 >Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
