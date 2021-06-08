@@ -66,7 +66,7 @@
 >OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers
 >feitos para os militares desviados, onde, se o militar retornar, verifique-o
 >e libere-o para batalhão utilizando o comando "porta5", se ele continuar
->inativo, utilize o comando "desviarsc" para manda-lo de volta para o saguão.
+>inativo, utilize o comando "desviarsc" para mandá-lo de volta para o saguão.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
 >Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
 >O Auxiliar Operacional pode utilizar todos os comandos da Sala de Controle.
@@ -78,7 +78,7 @@
 >Para abrir a porta de acesso ao Corredor dos INS digite porta5.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
 >No Batalhão Auxiliar ele também é o responsável pela função de Operador 4 e a liberação para
->o instrutor aplicar aula torna-se é de 5 minutos na sentinela ou 2 recrutas.
+>o instrutor aplicar aula torna-se de 5 minutos na sentinela ou 2 recrutas.
 >Alguma dúvida sobre o conteúdo passado?
 
 #![OPCIONAL - PRATICA NA SALA DE CFC]
