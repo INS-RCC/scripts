@@ -55,7 +55,7 @@
 >Além das funções tradicionais, temos também o comando "desviar" que pode ser utilizado caso
 >algum policial estiver parando o transito na sala de controle.
 >Agora irei passar as circunstâncias em que esse comando pode ser ativo:
->OP1: Tem a liberdade de expulsar o militar que estiver na entrada da sala de controle com o comando "desviarsc".
+>OP1: Pode expulsar o militar que estiver na entrada da sala de controle com o comando "desviarsc".
 >OP2: Pode "enviar" o militar que está travando o andamento da sala de controle,
 >usando o comando respectivo ao roller em que o militar está inativo,
 >sendo eles: desviar1 / desviar2 / desviar3.
