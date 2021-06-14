@@ -5,7 +5,6 @@
 >Seja bem-vindo(a) à RCC! Permaneça em silêncio e preste atenção ao conteúdo repassado na instrução.
 >Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
 >Entendido, recruta?;;
->Você joga pelo computador (aplicativo ou navegador) ou celular?
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família.
 >A RCC foi fundada em 2007, pelo habbo nabas201 e, atualmente,
 >nossos supremos são os senhores: -Edhone e Dean.Santos (Eles são autoridade máxima.)
@@ -37,7 +36,8 @@
 
 >
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
->Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado 
+>Você joga pelo computador (aplicativo ou navegador) ou celular?
+>Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado
 >imediatamente. Caso tenha outros, aguarde o reprovado retirar-se para dar continuidade.
 >Saia do sussurro antes de continuar a aula.;;
 
@@ -85,6 +85,7 @@
 #![TESTE TEÓRICO - PARTE FINAL]
 
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
+>Você joga pelo computador (aplicativo ou navegador) ou celular?
 >Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado 
 >imediatamente. Caso tenha outros, aguarde o reprovado retirar-se para dar
 >continuidade. Saia do sussurro antes de continuar aula.;;
