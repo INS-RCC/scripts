@@ -6,7 +6,7 @@
 #![HISTÓRIA]
 
 >
->A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro.
+>A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro.  
 >Foi fundada com o objetivo de acabar com o crime no Habbo, pelo usuário nabas704 (atual nabas201).
 >Agora, também com o objetivo mais voltado a formar líderes exemplares.
 >
@@ -66,7 +66,7 @@
 >OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers
 >feitos para os militares desviados, onde, se o militar retornar, verifique-o
 >e libere-o para batalhão utilizando o comando "porta5", se ele continuar
->inativo, utilize o comando "desviarsc" para mandá-lo de volta para o saguão.
+>inativo, utilize o comando "desviarsc" para mandá-lo ao saguão.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
 >Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
 >O Auxiliar Operacional pode utilizar todos os comandos da Sala de Controle.
@@ -74,6 +74,7 @@
 >Ele deve ensinar os Recrutas acerca da história da RCC, formas de tratamento e comandos.
 >Também tem como funções abrir a porta para o Corredor dos INS e alertar ao Instrutor próximo
 >quando completar 3 recrutas presentes ou 10 minutos de pré-aula.
+>Para iniciar a contagem, utilize o comando: iniciarcontagem
 >É necessário o uso da cor cinza no balão de fala.
 >Para abrir a porta de acesso ao Corredor dos INS digite porta5.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
@@ -116,22 +117,24 @@
 >01 - Qual a data simbólica da fundação da RCC? E quais seus dois objetivos?;;
 >02 - Cite duas regras básicas da RCC.;;
 >03 - Quantas e quais são as funções no batalhão da RCC? (Sem abreviar ou usar siglas);;
->04 - Qual a função de cada um dos operadores?;;
+>04 - Qual a função de cada um dos operadores? (Sem considerar o "desviar");;
 >05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
 >06 - Quais as duas funções do sentinela?
->07 - Qual a forma correta de abrir a porta de acesso para o corredor dos Instrutores sendo sentinela?
+>07- Qual a forma correta de abrir a porta de acesso para o corredor dos Instrutores sendo sentinela?
 
 #![FINALIZAÇÃO]
 
 >
->Parabéns, você foi qualificado na primeira parte do seu CFC.
+>Parabéns, você foi qualificado(a) na primeira parte do seu CFC.
 >Acrescente ao fim de sua missão, após a TAG de quem o promoveu: [CFC1]
 >Sussurrar [Nick] Espere o militar realizar o procedimento para seguir o script.
 >Saia do sussurro antes de continuar a aula.;;
 >Como Cabo, você tem grandes responsabilidades e deve ser exemplo para os soldados.
 >Deve manter a atenção e a agilidade em todas as funções que assume na RCC.
+
+#!
+>Deseja fazer a segunda parte do CFC agora?;;
 >Aguarde, irei postar a primeira parte da instrução.;;
->Deseja fazer a segunda parte do CFC agora?
 >Sussurrar [Nick] Caso não possa aplicar o CFCII explique que deve procurar um Instrutor (brevê azul). 
 >É de suma importância que poste todas suas instruções.
 >Mesmo que haja reprovados no teste teórico ou se todas tiverem caído.

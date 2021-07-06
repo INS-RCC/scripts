@@ -36,10 +36,8 @@
 
 >
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
->Você joga pelo computador (aplicativo ou navegador) ou celular?
 >Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado
->imediatamente. Caso tenha outros, aguarde o reprovado retirar-se para dar continuidade.
->Saia do sussurro antes de continuar a aula.;;
+>imediatamente. Saia do sussurro antes de continuar a aula.;;
 
 >1) Quais são os 3 requisitos necessários para o alistamento?;;
 >2) Como você deve se dirigir a SUBALTERNOS (INFERIORES) e PARES de patente/cargo?;;
@@ -51,8 +49,9 @@
 
 >
 >Vocês conseguem sussurrar comigo?
->Sussurrar [Nick] Caso a resposta seja não, escolha o tópico da plataforma que a
->Pessoa está jogando no momento. Saia do sussurro antes de voltar pra aula.;;
+>Sussurrar [Nick] Se a resposta for não, siga o aulador, se for sim vá para a parte final.
+>Saia do sussurro antes de prosseguir a aula.;;
+>Você joga pelo computador (aplicativo ou navegador) ou celular?
 
 #![TESTE TEÓRICO - COMPUTADOR - APLICATIVO]
 
@@ -61,16 +60,14 @@
 >Caso meu avatar esteja bugado e o botão não esteja aparecendo, avisem-me.
 >Sussurrar [Nick] Caso os recrutas não consigam sussurrar reentre no quarto.
 >Saia do sussurro antes de voltar pra aula.;;
->Certo, aguarde-me que irei reentrar no quarto.;;
->Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
+>Certo, aguardem-me. Irei reentrar no quarto.
 
 #![TESTE TEÓRICO - COMPUTADOR - NAVEGADOR]
 
 >
 >Pressione a tecla "Alt"  ou "Alt Gr"  e clique no meu avatar. Após isso, aperte em "Sussurrar".
 >Sussurrar [Nick] Caso os recrutas consigam sussurrar continue.
->Saia do sussurro antes de voltar pra aula.;;
->Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
+>Saia do sussurro antes de voltar pra aula.
 
 
 #![TESTE TEÓRICO - CELULAR]
@@ -80,12 +77,12 @@
 >Sussurrar [Nick] Caso não consiga selecionar seu personagem, siga daqui.
 >Lembre-se de sair do sussurro antes de continuar a aula.;;
 >Pressione o dedo onde meu boneco está e selecione o avatar, após isso, apertem em "Sussurrar".;;
->Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 
 #![TESTE TEÓRICO - PARTE FINAL]
 
+>
 >Agora, irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
->Você joga pelo computador (aplicativo ou navegador) ou celular?
+>Todas as respostas deverão ser enviadas via sussurro, caso envie fora será considerado um erro.
 >Sussurrar [Nick] Caso o recruta atinja a quantidade de erros, deverá ser reprovado 
 >imediatamente. Caso tenha outros, aguarde o reprovado retirar-se para dar
 >continuidade. Saia do sussurro antes de continuar aula.;;
@@ -111,7 +108,7 @@
 >sem bolsos, etc) e peça para que um recruta te aliste, ou simplesmente te sussurre quais
 >os erros no seu fardamento. Saia do sussurro antes de continuar a aula.
 
-#![OPCIONAL - SALAS AUTOMÁTICAS]
+#![OPCIONAL - SALAS 05 a 09]
 
 >
 >Irei realizar uma prática agora para avaliar se você prestou atenção na aula.
