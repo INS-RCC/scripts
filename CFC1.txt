@@ -74,7 +74,8 @@
 >Ele deve ensinar os Recrutas acerca da história da RCC, formas de tratamento e comandos.
 >Também tem como funções abrir a porta para o Corredor dos INS e alertar ao Instrutor próximo
 >quando completar 3 recrutas presentes ou 10 minutos de pré-aula.
->Para iniciar a contagem, utilize o comando: iniciarcontagem
+>Há um sistema que faz com que o bot que se encontra na área dos recrutas faça a contagem do tempo.
+>Por isso, assim que chegar um primeiro recruta, utilize o comando: iniciarcontagem
 >É necessário o uso da cor cinza no balão de fala.
 >Para abrir a porta de acesso ao Corredor dos INS digite porta5.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
