@@ -102,7 +102,7 @@
 >03 - Quantas e quais são as funções no batalhão da RCC?;;
 >04 - Qual a função de cada um dos operadores?;;
 >05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
->06 - Quais as duas funções do sentinela?
+>06 - Quais as duas funções do sentinela?;;
 >07- Quais os dois comandos existentes para o sentinela?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
@@ -120,7 +120,7 @@
 >03 - Quantas e quais são as funções no batalhão da RCC? (Sem abreviar ou usar siglas);;
 >04 - Qual a função de cada um dos operadores? (Sem considerar o "desviar");;
 >05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
->06 - Quais as duas funções do sentinela?
+>06 - Quais as duas funções do sentinela?;;
 >07- Quais os dois comandos existentes para o sentinela?
 
 #![FINALIZAÇÃO]
