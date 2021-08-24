@@ -4,17 +4,18 @@
 >Olá, recruta. Eu sou o(a) instrutor(a) [Nick]
 >Seja bem-vindo(a) à RCC! Permaneça em silêncio e preste atenção ao conteúdo repassado na instrução.
 >Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
->Entendido, recruta?;;
+>Entendido, recruta?
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família.
 >A RCC foi fundada em 2007, pelo habbo nabas201 e, atualmente,
->nossos supremos são os senhores: -Edhone e Dean.Santos (Eles são autoridade máxima.)
+>nossos supremos são os senhores: -Edhone / Mine315-BAN (Eles são autoridade máxima.)
+
 
 #![FORMA DE TRATAMENTO E ATENDIMENTO]
 
 >
 >Na RCC, nós temos uma relação entre superiores e inferiores/pares, sendo que:
->A forma correta de se dirigir a um SUBALTERNO(inferior)/PAR é: [Patente/Cargo] + [Nickname].
->A forma correta de se dirigir a um SUPERIOR hierárquico é: Senhor(a) + [Patente/Cargo] + [Nickname].
+>A forma correta de se dirigir a um SUBALTERNO(inferior)/PAR é: [Patente/Cargo] + [Nick].
+>A forma correta de se dirigir a um SUPERIOR hierárquico é: Senhor(a) + [Patente/Cargo] + [Nick].
 >Sussurrar [Nick] A partir de agora cobre o pronome "senhor(a)" do recruta, caso ele não o use
 >corretamente. Saia do sussurro antes de continuar a aula.;;
 >Para o alistamento, é obrigatório que o civil porte três requisitos: MISSÃO, FARDA e GRUPO.
@@ -30,7 +31,6 @@
 >Deixe um quadrado entre você e o superior que irá assumir e diga: Assumo, senhor(a).
 >Caso precise sair ou pedir ajuda, acene que um policial com balão de fala vermelho irá te ajudar.
 >Alguma dúvida?
-
 
 #![TESTE TEÓRICO - UM SOLDADO]
 

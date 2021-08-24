@@ -9,7 +9,6 @@
 >A RCC (Revolução Contra o Crime) foi fundada em 2007 e comemora-se em 12 de dezembro.  
 >Foi fundada com o objetivo de acabar com o crime no Habbo, pelo usuário nabas704 (atual nabas201).
 >Agora, também com o objetivo mais voltado a formar líderes exemplares.
->
 
 #![REGRAS BÁSICAS DA RCC]
 
@@ -65,8 +64,8 @@
 >Será utilizado quando o militar não constar no System.
 >OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers
 >feitos para os militares desviados, onde, se o militar retornar, verifique-o
->e libere-o para batalhão utilizando o comando "porta5", se ele continuar
->inativo, utilize o comando "desviarsc" para mandá-lo ao saguão.
+>e libere-o para batalhão utilizando o comando "porta5".
+>Se ele continuar inativo, utilize o comando "desviarsc" para mandá-lo ao saguão.
 >Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
 >Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
 >O Auxiliar Operacional pode utilizar todos os comandos da Sala de Controle.
@@ -82,6 +81,7 @@
 >No Batalhão Auxiliar ele também é o responsável pela função de Operador 4 e a liberação para
 >o instrutor aplicar aula torna-se de 5 minutos na sentinela ou 2 recrutas.
 >Alguma dúvida sobre o conteúdo passado?
+
 
 #![OPCIONAL - PRATICA NA SALA DE CFC]
 
