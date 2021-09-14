@@ -4,11 +4,10 @@
 >Olá, recruta. Eu sou o(a) instrutor(a) [Nick]
 >Seja bem-vindo(a) à RCC! Permaneça em silêncio e preste atenção ao conteúdo repassado na instrução.
 >Se eu sair do jogo, me aguarde 5 minutos e caso eu não retorne, volte para o batalhão.
->Entendido, recruta?
+>Entendido, recruta?;;
 >A Polícia Militar Revolução Contra o Crime (RCC) agradece por ter escolhido essa grande família.
 >A RCC foi fundada em 2007, pelo habbo nabas201 e, atualmente,
 >nossos supremos são os senhores: -Edhone / Mine315-BAN (Eles são autoridade máxima.)
-
 
 #![FORMA DE TRATAMENTO E ATENDIMENTO]
 
