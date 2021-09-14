@@ -2,6 +2,21 @@
 
 >
 >Olá, sou o(a) instrutor(a) [Nick] e irei lhe aplicar o Curso de Formação de Cabos, parte 01.
+>Nele você aprenderá mais afundo sobre a polícia, o batalhão e as suas funções.
+>Você prefere o método clássico (script enviado aqui) ou a opção mais prática via slide?
+>Sussurrar [Nick] Caso o cabo escolha metódo clássico, comece a partir de história.
+>Saia do sussurro antes de continuar a aula.
+
+#![MÉTODO SLIDE]
+
+>
+>Acesse o seguinte link: bit*ly/ins-cfc1 (troque "*" por "."), avise-me ao acessar.
+>Siga as instruções dele sempre que ele mandar retornar até aqui.
+>Se tiver qualquer dúvida, retorne e diga.
+>Evite dormir. Caso fique +4 minutos ausente, envie um balão de fala branco. Pode começar a leitura.
+>Alguma dúvida diante de todo o conteúdo que foi passado pelo slide?
+>Sussurrar [Nick] Caso queira, continue na parte opcional, caso contrário
+>continue em teste teórico. Saia do sussurro antes de continuar.
 
 #![HISTÓRIA]
 
@@ -13,23 +28,14 @@
 #![REGRAS BÁSICAS DA RCC]
 
 >
->Como sabe, na RCC existem várias regras, você deve seguir todas, como:
->1. Nunca desobedecer a habbo etiqueta dentro ou fora do batalhão;
->2. Respeitar todos, sejam civis, subalternos ou superiores;
->3. Representar a polícia RCC em todos os lugares com elevados padrões;
->4. Não pedir promoção/direitos/pagamento/gratificação ou para ser avaliado;
->5. Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
->6. Não deixar o perfil no modo offline sob hipótese alguma;
->7. Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
->8. Não fugir de rondas/aulas/treinos sob hipótese alguma;
->9. Manter a opção "Visibilidade do Perfil" habilitada para "Todo mundo";
->10. É expressamente proibido a utilização de fakes ou identidade dupla na instituição.
->11. Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
+>Como sabe, na RCC existem várias regras, algumas delas são:
+>1. Ser fiel à polícia RCC, nunca trabalhar em duas polícias ao mesmo tempo;
+>2. Deve permanecer com o perfil em modo online e visível para todo mundo;
+>3. Não deixar o seu habbo inativo em funções, sala de estado ou corredor principal;
+>4. Proibido fugir de atividades, pedir promoção/gratificação e ter duas contas na instituição.
+>5. Respeitar todos, sejam civis, subalternos ou superiores;
+>6. Sempre obedecer as ordens de seus superiores, sendo justas ou injustas.
 >Em caso de injustas, ao acatá-la, você deverá printar e após isso, recorra a um superior.
->Vale ressaltar que caso descumpra as regras estará sujeito a punições.
->Punições estas que podem ser: advertência verbal, apresentar-armas, rebaixamento,
->demissão e até exoneração.
-
 
 #![FUNÇÕES DO BATALHÃO]
 
@@ -41,10 +47,10 @@
 >Recepção, Operadores, Auxiliar Operacional, Sentinela, Oficial da Guarda e Cabo da Guarda.
 >Operadores (OP) - Encontra-se na sala de controle, onde estão as alavancas e os rollers no batalhão.
 >Tem função de liberar a entrada de policiais ao batalhão e, por segurança, são divididos em 4:
->OP1: confere a farda, missão e o grupo que o policial usa naquele momento.
->OP2: checar o perfil/visibilidade do perfil, se há número nas costas e se o balão de fala é branco.
->OP3: confere a TAG, se os cursos do policial constam no System e libera a entrada para o batalhão.
->OP4: confere se os recrutas são exonerados, se estão com a visibilidade do perfil habilitada,
+>OP 1: confere a farda, missão e o grupo que o policial usa naquele momento.
+>OP 2: checar o perfil/visibilidade do perfil, se há número nas costas e se o balão de fala é branco.
+>OP 3: confere a TAG, se os cursos do policial constam no System e libera a entrada para o batalhão.
+>OP 4: confere se os recrutas são exonerados, se estão com a visibilidade do perfil habilitada,
 >se constam como policiais da ativa e se estão com os procedimentos corretos.
 >No batalhão auxiliar, visto que há apenas dois operadores, o Operador 1 ficará responsável pela sua
 >função padrão e pelas funções do Operador 2, enquanto o segundo operador
@@ -58,17 +64,13 @@
 >OP2: Pode "enviar" o militar que está travando o andamento da sala de controle,
 >usando o comando respectivo ao roller em que o militar está inativo,
 >sendo eles: desviar1 / desviar2 / desviar3.
->Como pode observar, existem 3 rollers entre o OP1 e OP2, os comandos antes
->apresentados equivalem a cada roller.
+>Cada comando equivale a cada um dos 3 rollers entre o OP1 e OP2.
 >OP3: Pode "jogar" os policiais para fora da sala de controle usando o comando "desviarsc".
 >Será utilizado quando o militar não constar no System.
 >OP4: Além dos rollers comuns para os recrutas, existe um conjunto de rollers
 >feitos para os militares desviados, onde, se o militar retornar, verifique-o
 >e libere-o para batalhão utilizando o comando "porta5".
 >Se ele continuar inativo, utilize o comando "desviarsc" para mandá-lo ao saguão.
->Auxiliar Operacional (AO) - Tem como função manter os operadores organizados e ativos.
->Além de autorizar a entrada e saída de membros da sala de controle, auxiliando os operadores.
->O Auxiliar Operacional pode utilizar todos os comandos da Sala de Controle.
 >Sentinela - É o policial que dá uma pré-aula aos Recrutas na área de recrutas.
 >Ele deve ensinar os Recrutas acerca da história da RCC, formas de tratamento e comandos.
 >Também tem como funções abrir a porta para o Corredor dos INS e alertar ao Instrutor próximo
@@ -76,12 +78,11 @@
 >Há um sistema que faz com que o bot que se encontra na área dos recrutas faça a contagem do tempo.
 >Por isso, assim que chegar um primeiro recruta, utilize o comando: iniciarcontagem
 >É necessário o uso da cor cinza no balão de fala.
->Para abrir a porta de acesso ao Corredor dos INS digite porta5.
+>Para liberar o acesso ao Corredor dos INS digite porta5.
 >É estritamente proibido usar script's ou modelos na função do sentinela, utilize o seu conhecimento.
 >No Batalhão Auxiliar ele também é o responsável pela função de Operador 4 e a liberação para
 >o instrutor aplicar aula torna-se de 5 minutos na sentinela ou 2 recrutas.
 >Alguma dúvida sobre o conteúdo passado?
-
 
 #![OPCIONAL - PRATICA NA SALA DE CFC]
 
@@ -98,12 +99,10 @@
 >Saia do sussurro antes de continuar a aula.;;
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Qual a data simbólica da fundação da RCC? E quais seus dois objetivos?;;
->02 - Cite duas regras básicas da RCC.;;
->03 - Quantas e quais são as funções no batalhão da RCC?;;
->04 - Qual a função de cada um dos operadores?;;
->05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
->06 - Quais as duas funções do sentinela?;;
->07- Quais os dois comandos existentes para o sentinela?
+>02 - Quantas e quais são as funções no batalhão da RCC? (Sem abreviar ou usar siglas);;
+>03 - Qual a função de cada um dos operadores? (Sem considerar o "desviar");;
+>04 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
+>05 - Quais as duas funções do sentinela? E quais os dois comandos existentes?
 
 #![TESTE DE CONDUTA - MAIS DE UM CABO]
 
@@ -116,12 +115,10 @@
 >Todas as respostas deverão ser enviadas via sussurro.
 >Agora irei fazer algumas perguntas relacionadas à aula. Caso erre duas questões, será reprovado(a).
 >01 - Qual a data simbólica da fundação da RCC? E quais seus dois objetivos?;;
->02 - Cite duas regras básicas da RCC.;;
->03 - Quantas e quais são as funções no batalhão da RCC? (Sem abreviar ou usar siglas);;
->04 - Qual a função de cada um dos operadores? (Sem considerar o "desviar");;
->05 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
->06 - Quais as duas funções do sentinela?;;
->07- Quais os dois comandos existentes para o sentinela?
+>02 - Quantas e quais são as funções no batalhão da RCC? (Sem abreviar ou usar siglas);;
+>03 - Qual a função de cada um dos operadores? (Sem considerar o "desviar");;
+>04 - Quais os comandos para abrir as portas dos operadores? Como expulsar enquanto OP4?;;
+>05 - Quais as duas funções do sentinela? E quais os dois comandos existentes?
 
 #![FINALIZAÇÃO]
 
